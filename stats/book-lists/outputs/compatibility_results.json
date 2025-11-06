@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-05T19:10:32.078327",
+    "generated_at": "2025-11-05T19:25:42.423632",
     "total_pairings": 253,
     "average_compatibility": 9.0
   },
@@ -19,16 +19,16 @@
         "disagreements": 2
       },
       "top_shared_books": [
-        "oathbringer",
-        "edgedancer",
-        "the folding knife",
-        "alchemy",
-        "monetizing innovation",
         "how to read a book",
-        "the bed of procrustes",
+        "the folding knife",
+        "the beginning of infinity",
+        "words of radiance",
+        "reader come home",
         "fooled by randomness",
-        "the well of ascension",
-        "rhythm of war"
+        "edgedancer",
+        "rhythm of war",
+        "monetizing innovation",
+        "the cold start problem"
       ],
       "top_shared_authors": [
         {
@@ -50,7 +50,7 @@
           "total": 3
         },
         {
-          "author": "Andrew Chen",
+          "author": "K. J. Parker",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
@@ -63,8 +63,8 @@
         }
       ],
       "shared_tbr_sample": [
-        "pathless path",
         "the will of the many",
+        "pathless path",
         "why greatness cannot be planned"
       ],
       "diagnosis": {
@@ -99,12 +99,12 @@
         "disagreements": 2
       },
       "top_shared_books": [
-        "traction",
-        "antifragile",
         "how to read a book",
         "the art of learning",
+        "4hour workweek",
+        "antifragile",
         "atomic habits",
-        "4hour workweek"
+        "traction"
       ],
       "top_shared_authors": [
         {
@@ -112,12 +112,6 @@
           "person1_count": 1,
           "person2_count": 4,
           "total": 5
-        },
-        {
-          "author": "James Clear",
-          "person1_count": 1,
-          "person2_count": 2,
-          "total": 3
         },
         {
           "author": "Gabriel Weinberg",
@@ -132,17 +126,23 @@
           "total": 3
         },
         {
-          "author": "Mortimer J Adler",
+          "author": "James Clear",
+          "person1_count": 1,
+          "person2_count": 2,
+          "total": 3
+        },
+        {
+          "author": "Jason Fried",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         }
       ],
       "shared_tbr_sample": [
-        "language instinct",
         "anything you want",
+        "never split the difference",
         "outlive",
-        "positioning the battle for your mind",
+        "thinking in bets",
         "why greatness cannot be planned"
       ],
       "diagnosis": {
@@ -178,10 +178,10 @@
       },
       "top_shared_books": [
         "emily wildes map of the otherlands",
-        "the perfect hope",
-        "intermezzo",
         "the martian",
-        "shaladors lady"
+        "shaladors lady",
+        "intermezzo",
+        "the perfect hope"
       ],
       "top_shared_authors": [
         {
@@ -251,10 +251,10 @@
         "disagreements": 2
       },
       "top_shared_books": [
-        "four thousand weeks",
-        "continuous discovery habits",
+        "atomic habits",
         "the tainted cup",
-        "atomic habits"
+        "four thousand weeks",
+        "continuous discovery habits"
       ],
       "top_shared_authors": [
         {
@@ -270,13 +270,13 @@
           "total": 2
         },
         {
-          "author": "James Clear",
+          "author": "Oliver Burkeman",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         },
         {
-          "author": "Oliver Burkeman",
+          "author": "James Clear",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
@@ -320,20 +320,20 @@
         "disagreements": 1
       },
       "top_shared_books": [
-        "alchemy",
+        "atomic habits",
         "monetizing innovation",
         "loyalty programs",
-        "atomic habits"
+        "alchemy"
       ],
       "top_shared_authors": [
         {
-          "author": "James Clear",
+          "author": "Rory Sutherland",
           "person1_count": 1,
           "person2_count": 2,
           "total": 3
         },
         {
-          "author": "Rory Sutherland",
+          "author": "James Clear",
           "person1_count": 1,
           "person2_count": 2,
           "total": 3
@@ -358,9 +358,9 @@
         }
       ],
       "shared_tbr_sample": [
+        "the will of the many",
         "awareness",
         "the anxious generation",
-        "the will of the many",
         "why greatness cannot be planned"
       ],
       "diagnosis": {
@@ -395,10 +395,10 @@
         "disagreements": 5
       },
       "top_shared_books": [
-        "the folding knife",
-        "the cold start problem",
+        "certain to win",
         "leviathan wakes",
-        "certain to win"
+        "the cold start problem",
+        "the folding knife"
       ],
       "top_shared_authors": [
         {
@@ -428,8 +428,8 @@
       ],
       "shared_tbr_sample": [
         "skunk works",
-        "why greatness cannot be planned",
-        "toll the hounds"
+        "toll the hounds",
+        "why greatness cannot be planned"
       ],
       "diagnosis": {
         "title": "\ud83d\udc4d Decent Compatibility",
@@ -463,10 +463,10 @@
         "disagreements": 1
       },
       "top_shared_books": [
-        "alchemy",
         "monetizing innovation",
         "the tainted cup",
-        "flow"
+        "flow",
+        "alchemy"
       ],
       "top_shared_authors": [
         {
@@ -474,6 +474,12 @@
           "person1_count": 1,
           "person2_count": 2,
           "total": 3
+        },
+        {
+          "author": "Rory Sutherland",
+          "person1_count": 1,
+          "person2_count": 1,
+          "total": 2
         },
         {
           "author": "Mihaly Csikszentmihalyi",
@@ -486,19 +492,13 @@
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
-        },
-        {
-          "author": "Rory Sutherland",
-          "person1_count": 1,
-          "person2_count": 1,
-          "total": 2
         }
       ],
       "shared_tbr_sample": [
-        "creativity",
         "the will of the many",
-        "why greatness cannot be planned",
-        "book wars"
+        "book wars",
+        "creativity",
+        "why greatness cannot be planned"
       ],
       "diagnosis": {
         "title": "\ud83d\udc4d Decent Compatibility",
@@ -532,19 +532,19 @@
       },
       "top_shared_books": [
         "the curse of chalion",
-        "the folding knife",
         "the cold start problem",
+        "the folding knife",
         "the tainted cup"
       ],
       "top_shared_authors": [
         {
-          "author": "K. J. Parker",
+          "author": "Lois Mcmaster Bujold",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         },
         {
-          "author": "Robert Jackson Bennett",
+          "author": "K. J. Parker",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
@@ -556,18 +556,18 @@
           "total": 2
         },
         {
-          "author": "Lois Mcmaster Bujold",
+          "author": "Robert Jackson Bennett",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         }
       ],
       "shared_tbr_sample": [
+        "island of the blue foxes",
         "the combat codes",
-        "why greatness cannot be planned",
-        "book wars",
+        "steal like an artist",
         "smart brevity",
-        "island of the blue foxes"
+        "why greatness cannot be planned"
       ],
       "diagnosis": {
         "title": "\ud83d\udc4d Decent Compatibility",
@@ -600,10 +600,10 @@
         "disagreements": 1
       },
       "top_shared_books": [
-        "how to read a book",
         "the name of the wind",
-        "atomic habits",
-        "the courage to be disliked"
+        "how to read a book",
+        "the courage to be disliked",
+        "atomic habits"
       ],
       "top_shared_authors": [
         {
@@ -666,11 +666,11 @@
         "disagreements": 1
       },
       "top_shared_books": [
-        "the light of all that falls",
+        "the shadow of what was lost",
+        "how to read a book",
         "an echo of things to come",
         "the tainted cup",
-        "how to read a book",
-        "the shadow of what was lost"
+        "the light of all that falls"
       ],
       "top_shared_authors": [
         {
@@ -680,13 +680,13 @@
           "total": 7
         },
         {
-          "author": "Robert Jackson Bennett",
+          "author": "Mortimer J Adler",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         },
         {
-          "author": "Mortimer J Adler",
+          "author": "Robert Jackson Bennett",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
@@ -726,8 +726,8 @@
         "disagreements": 0
       },
       "top_shared_books": [
-        "how to read a book",
         "atomic habits",
+        "how to read a book",
         "mans search for meaning"
       ],
       "top_shared_authors": [
@@ -836,13 +836,13 @@
         "disagreements": 2
       },
       "top_shared_books": [
-        "shadows of self",
-        "rhythm of war",
+        "the alloy of law",
         "words of radiance",
-        "wind and truth",
-        "the way of kings",
         "the bands of mourning",
-        "the alloy of law"
+        "the way of kings",
+        "rhythm of war",
+        "wind and truth",
+        "shadows of self"
       ],
       "top_shared_authors": [
         {
@@ -929,12 +929,12 @@
         "disagreements": 1
       },
       "top_shared_books": [
-        "oathbringer",
-        "the well of ascension",
-        "rhythm of war",
         "words of radiance",
-        "wind and truth",
-        "the way of kings"
+        "the way of kings",
+        "rhythm of war",
+        "the well of ascension",
+        "oathbringer",
+        "wind and truth"
       ],
       "top_shared_authors": [
         {
@@ -978,11 +978,11 @@
         "disagreements": 0
       },
       "top_shared_books": [
-        "name of the wind",
-        "rhythm of war",
         "words of radiance",
+        "the way of kings",
+        "rhythm of war",
         "wind and truth",
-        "the way of kings"
+        "name of the wind"
       ],
       "top_shared_authors": [
         {
@@ -1028,11 +1028,11 @@
         "disagreements": 1
       },
       "top_shared_books": [
-        "book wars",
-        "rhythm of war",
-        "the name of the wind",
         "words of radiance",
-        "wind and truth"
+        "rhythm of war",
+        "wind and truth",
+        "the name of the wind",
+        "book wars"
       ],
       "top_shared_authors": [
         {
@@ -1108,13 +1108,13 @@
           "total": 4
         },
         {
-          "author": "Yuval Noah Harari",
+          "author": "Peter A Thiel",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         },
         {
-          "author": "Peter A Thiel",
+          "author": "Yuval Noah Harari",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
@@ -1154,8 +1154,8 @@
         "disagreements": 1
       },
       "top_shared_books": [
-        "how to fall in love with questions",
-        "healing back pain"
+        "healing back pain",
+        "how to fall in love with questions"
       ],
       "top_shared_authors": [
         {
@@ -1172,8 +1172,8 @@
         }
       ],
       "shared_tbr_sample": [
-        "steal like an artist",
-        "the soul of a new machine"
+        "the soul of a new machine",
+        "steal like an artist"
       ],
       "diagnosis": {
         "title": "\ud83d\udc4d Decent Compatibility",
@@ -1254,9 +1254,9 @@
         "disagreements": 9
       },
       "top_shared_books": [
-        "the beginning of infinity",
-        "the name of the wind",
         "zero to one",
+        "the name of the wind",
+        "the beginning of infinity",
         "antifragile"
       ],
       "top_shared_authors": [
@@ -1405,10 +1405,10 @@
         "disagreements": 2
       },
       "top_shared_books": [
+        "words of radiance",
+        "rhythm of war",
         "oathbringer",
         "the well of ascension",
-        "rhythm of war",
-        "words of radiance",
         "wind and truth"
       ],
       "top_shared_authors": [
@@ -1459,11 +1459,11 @@
         "disagreements": 2
       },
       "top_shared_books": [
+        "words of radiance",
+        "wise mans fear",
         "oathbringer",
         "the well of ascension",
-        "wise mans fear",
-        "the name of the wind",
-        "words of radiance"
+        "the name of the wind"
       ],
       "top_shared_authors": [
         {
@@ -1480,10 +1480,10 @@
         }
       ],
       "shared_tbr_sample": [
-        "the anxious generation",
+        "good inside",
         "bad therapy",
         "the trainable cat",
-        "good inside"
+        "the anxious generation"
       ],
       "diagnosis": {
         "title": "\ud83e\udd14 Low Compatibility",
@@ -1616,15 +1616,15 @@
       ],
       "top_shared_authors": [
         {
-          "author": "Robert Jackson Bennett",
-          "person1_count": 2,
-          "person2_count": 1,
-          "total": 3
-        },
-        {
           "author": "Andy Weir",
           "person1_count": 1,
           "person2_count": 2,
+          "total": 3
+        },
+        {
+          "author": "Robert Jackson Bennett",
+          "person1_count": 2,
+          "person2_count": 1,
           "total": 3
         },
         {
@@ -1635,8 +1635,8 @@
         }
       ],
       "shared_tbr_sample": [
-        "why greatness cannot be planned",
-        "book wars"
+        "book wars",
+        "why greatness cannot be planned"
       ],
       "diagnosis": {
         "title": "\ud83e\udd14 Low Compatibility",
@@ -1718,10 +1718,10 @@
         "disagreements": 0
       },
       "top_shared_books": [
-        "oathbringer",
-        "the well of ascension",
         "words of radiance",
         "the way of kings",
+        "oathbringer",
+        "the well of ascension",
         "the hero of ages"
       ],
       "top_shared_authors": [
@@ -1763,8 +1763,8 @@
         "disagreements": 0
       },
       "top_shared_books": [
-        "enders game",
-        "the tainted cup"
+        "the tainted cup",
+        "enders game"
       ],
       "top_shared_authors": [
         {
@@ -1811,9 +1811,9 @@
         "disagreements": 0
       },
       "top_shared_books": [
-        "masked city",
         "the burning page",
         "intermezzo",
+        "masked city",
         "the invisible library"
       ],
       "top_shared_authors": [
@@ -1919,8 +1919,8 @@
         "disagreements": 0
       },
       "top_shared_books": [
-        "words of radiance",
         "the name of the wind",
+        "words of radiance",
         "the way of kings"
       ],
       "top_shared_authors": [
@@ -1979,7 +1979,7 @@
       "diagnosis": {
         "title": "\ud83e\udd14 Low Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Minor taste differences (1 disagreement)."
         ]
       },
@@ -2010,13 +2010,13 @@
       ],
       "top_shared_authors": [
         {
-          "author": "James Clear",
+          "author": "Catherine Newman",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         },
         {
-          "author": "Catherine Newman",
+          "author": "James Clear",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
@@ -2070,8 +2070,8 @@
         }
       ],
       "shared_tbr_sample": [
-        "why greatness cannot be planned",
-        "the soul of a new machine"
+        "the soul of a new machine",
+        "why greatness cannot be planned"
       ],
       "diagnosis": {
         "title": "\ud83e\udd14 Low Compatibility",
@@ -2378,8 +2378,8 @@
         "disagreements": 0
       },
       "top_shared_books": [
-        "onyx storm",
         "house in the cerulean sea",
+        "onyx storm",
         "fourth wing"
       ],
       "top_shared_authors": [
@@ -2578,7 +2578,7 @@
       "diagnosis": {
         "title": "\ud83e\udd14 Low Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -2618,7 +2618,7 @@
       "diagnosis": {
         "title": "\ud83e\udd14 Low Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -2689,13 +2689,13 @@
       ],
       "top_shared_authors": [
         {
-          "author": "Andy Weir",
+          "author": "Jake Knapp",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         },
         {
-          "author": "Jake Knapp",
+          "author": "Andy Weir",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
@@ -2732,9 +2732,9 @@
         "disagreements": 1
       },
       "top_shared_books": [
-        "iron flame",
         "onyx storm",
-        "fourth wing"
+        "fourth wing",
+        "iron flame"
       ],
       "top_shared_authors": [
         {
@@ -2745,9 +2745,9 @@
         }
       ],
       "shared_tbr_sample": [
+        "the gifts of imperfection",
         "same as ever",
-        "steal like an artist",
-        "the gifts of imperfection"
+        "steal like an artist"
       ],
       "diagnosis": {
         "title": "\ud83e\udd14 Low Compatibility",
@@ -2830,13 +2830,13 @@
       ],
       "top_shared_authors": [
         {
-          "author": "James Clear",
+          "author": "Jason Fried",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         },
         {
-          "author": "Jason Fried",
+          "author": "James Clear",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
@@ -2926,11 +2926,11 @@
         }
       ],
       "shared_tbr_sample": [
-        "outlive",
-        "the inevitable",
+        "the soul of a new machine",
         "never split the difference",
         "same as ever",
-        "the soul of a new machine"
+        "outlive",
+        "the inevitable"
       ],
       "diagnosis": {
         "title": "\ud83e\udd14 Low Compatibility",
@@ -2973,9 +2973,9 @@
         }
       ],
       "shared_tbr_sample": [
-        "pathless path",
+        "indistractable",
         "positioning the battle for your mind",
-        "indistractable"
+        "pathless path"
       ],
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
@@ -3019,8 +3019,8 @@
         }
       ],
       "shared_tbr_sample": [
-        "outlive",
-        "thinking in systems"
+        "thinking in systems",
+        "outlive"
       ],
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
@@ -3198,8 +3198,8 @@
         }
       ],
       "shared_tbr_sample": [
-        "outlive",
-        "never split the difference"
+        "never split the difference",
+        "outlive"
       ],
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
@@ -3242,7 +3242,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -3310,8 +3310,8 @@
         "disagreements": 0
       },
       "top_shared_books": [
-        "steve jobs",
-        "the cold start problem"
+        "the cold start problem",
+        "steve jobs"
       ],
       "top_shared_authors": [
         {
@@ -3372,7 +3372,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -3443,7 +3443,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -3521,7 +3521,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -3559,8 +3559,8 @@
         }
       ],
       "shared_tbr_sample": [
-        "why greatness cannot be planned",
-        "how asia works"
+        "how asia works",
+        "why greatness cannot be planned"
       ],
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
@@ -3605,7 +3605,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -3684,7 +3684,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -3719,7 +3719,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -3752,7 +3752,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -3909,7 +3909,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Minor taste differences (2 disagreements)."
         ]
       },
@@ -3984,7 +3984,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -4016,7 +4016,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -4054,7 +4054,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -4089,7 +4089,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -4160,13 +4160,13 @@
       "top_shared_books": [],
       "top_shared_authors": [],
       "shared_tbr_sample": [
-        "thinking in bets",
-        "indistractable"
+        "indistractable",
+        "thinking in bets"
       ],
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -4198,7 +4198,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (2 disagreements)."
         ]
@@ -4233,7 +4233,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (2 disagreements)."
         ]
@@ -4268,7 +4268,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Minor taste differences (1 disagreement)."
         ]
       },
@@ -4297,14 +4297,14 @@
       "top_shared_books": [],
       "top_shared_authors": [],
       "shared_tbr_sample": [
-        "steal like an artist",
         "book wars",
+        "steal like an artist",
         "how to live"
       ],
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -4336,7 +4336,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -4373,8 +4373,8 @@
         }
       ],
       "shared_tbr_sample": [
-        "extreme ownership",
-        "gardens of the moon"
+        "gardens of the moon",
+        "extreme ownership"
       ],
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
@@ -4418,7 +4418,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -4454,7 +4454,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific.",
           "Minor taste differences (2 disagreements)."
         ]
@@ -4487,7 +4487,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -4520,7 +4520,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -4550,14 +4550,14 @@
       "top_shared_books": [],
       "top_shared_authors": [],
       "shared_tbr_sample": [
+        "the warren buffett way",
         "same as ever",
-        "why greatness cannot be planned",
-        "the warren buffett way"
+        "why greatness cannot be planned"
       ],
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -4591,7 +4591,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -4622,7 +4622,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -4653,7 +4653,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -4685,7 +4685,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -4718,7 +4718,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -4746,14 +4746,14 @@
       "top_shared_books": [],
       "top_shared_authors": [],
       "shared_tbr_sample": [
-        "selfish reasons to have more kids",
         "istanbul",
+        "selfish reasons to have more kids",
         "ape that understood the universe"
       ],
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (2 disagreements)."
         ]
@@ -4786,7 +4786,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -4861,7 +4861,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -4935,7 +4935,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -4969,7 +4969,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -5001,7 +5001,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Minor taste differences (1 disagreement)."
         ]
       },
@@ -5033,7 +5033,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Minor taste differences (2 disagreements)."
         ]
       },
@@ -5067,7 +5067,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -5101,7 +5101,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -5132,7 +5132,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -5166,7 +5166,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -5199,7 +5199,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -5230,7 +5230,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -5262,7 +5262,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -5296,7 +5296,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -5365,13 +5365,13 @@
       "top_shared_books": [],
       "top_shared_authors": [],
       "shared_tbr_sample": [
-        "creativity inc the expanded edition",
-        "thinking in systems"
+        "thinking in systems",
+        "creativity inc the expanded edition"
       ],
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -5402,7 +5402,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -5435,7 +5435,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Minor taste differences (3 disagreements)."
         ]
       },
@@ -5467,7 +5467,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Minor taste differences (2 disagreements)."
         ]
       },
@@ -5499,7 +5499,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -5532,7 +5532,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -5563,7 +5563,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -5594,7 +5594,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -5626,7 +5626,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -5659,7 +5659,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -5699,7 +5699,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -5731,7 +5731,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -5764,7 +5764,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -5796,7 +5796,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -5828,7 +5828,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -5859,7 +5859,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -5887,13 +5887,13 @@
       "top_shared_books": [],
       "top_shared_authors": [],
       "shared_tbr_sample": [
-        "steal like an artist",
-        "book wars"
+        "book wars",
+        "steal like an artist"
       ],
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -5926,7 +5926,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -5961,7 +5961,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -5992,7 +5992,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -6026,7 +6026,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -6059,7 +6059,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -6091,7 +6091,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -6125,7 +6125,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -6158,7 +6158,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -6190,7 +6190,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -6223,7 +6223,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -6254,7 +6254,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (3 disagreements)."
         ]
@@ -6287,7 +6287,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -6318,7 +6318,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -6349,7 +6349,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -6380,7 +6380,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -6413,7 +6413,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -6446,7 +6446,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -6480,7 +6480,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -6512,7 +6512,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -6543,7 +6543,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -6574,7 +6574,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -6608,7 +6608,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -6640,7 +6640,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -6672,7 +6672,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -6703,7 +6703,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -6735,7 +6735,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -6767,7 +6767,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -6799,7 +6799,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -6830,7 +6830,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -6862,7 +6862,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -6894,7 +6894,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -6925,7 +6925,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -6957,7 +6957,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -6989,7 +6989,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -7021,7 +7021,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7052,7 +7052,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7083,7 +7083,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -7115,7 +7115,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -7148,7 +7148,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Minor taste differences (1 disagreement)."
         ]
       },
@@ -7180,7 +7180,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -7212,7 +7212,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7243,7 +7243,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7274,7 +7274,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7305,7 +7305,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -7338,7 +7338,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7369,7 +7369,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -7401,7 +7401,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7432,7 +7432,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7463,7 +7463,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7494,7 +7494,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7525,7 +7525,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -7557,7 +7557,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7588,7 +7588,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -7620,7 +7620,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7651,7 +7651,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific.",
           "Minor taste differences (1 disagreement)."
         ]
@@ -7684,7 +7684,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7715,7 +7715,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7746,7 +7746,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7777,7 +7777,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7808,7 +7808,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -7840,7 +7840,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7871,7 +7871,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7902,7 +7902,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7933,7 +7933,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7964,7 +7964,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -7995,7 +7995,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -8027,7 +8027,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -8059,7 +8059,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -8090,7 +8090,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -8122,7 +8122,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -8154,7 +8154,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -8185,7 +8185,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -8216,7 +8216,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -8247,7 +8247,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -8279,7 +8279,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -8311,7 +8311,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -8343,7 +8343,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -8374,7 +8374,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -8406,7 +8406,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -8438,7 +8438,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -8470,7 +8470,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -8502,7 +8502,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -8533,7 +8533,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -8564,7 +8564,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -8595,7 +8595,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -8627,7 +8627,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -8659,7 +8659,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -8691,7 +8691,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -8723,7 +8723,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -8755,7 +8755,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -8786,7 +8786,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -8817,7 +8817,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -8849,7 +8849,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -8880,7 +8880,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -8912,7 +8912,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -8944,7 +8944,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -8976,7 +8976,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -9007,7 +9007,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -9038,7 +9038,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -9069,7 +9069,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -9100,7 +9100,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -9131,7 +9131,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -9163,7 +9163,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -9194,7 +9194,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -9225,7 +9225,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -9257,7 +9257,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -9288,7 +9288,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
         ]
       },
@@ -9320,7 +9320,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -9352,7 +9352,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -9383,7 +9383,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -9414,7 +9414,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books.",
+          "No overlap with 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
         ]
       },
@@ -9446,7 +9446,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -9477,7 +9477,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -9508,7 +9508,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {
@@ -9539,7 +9539,7 @@
       "diagnosis": {
         "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
-          "Limited overlap with only 0 shared books."
+          "No overlap with 0 shared books."
         ]
       },
       "score_breakdown": {

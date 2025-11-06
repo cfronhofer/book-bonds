@@ -257,6 +257,8 @@ class ReadingCompatibilityAnalyzer:
             diagnosis_details.append(f"A bit of overlap with {shared_finished} shared {book_word}.")
         elif shared_finished > 2:
             diagnosis_details.append(f"Some overlap with {shared_finished} shared {book_word}.")
+        elif shared_finished == 0:
+            diagnosis_details.append(f"No overlap with {shared_finished} shared {book_word}.")
         else:
             diagnosis_details.append(f"Limited overlap with only {shared_finished} shared {book_word}.")
 
