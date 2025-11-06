@@ -1,0 +1,83 @@
+Name,Profile ID,Book ID,Title,Author,Status,Created,Updated,Creation Origin
+Mitchell van der Hoeff,33990,1360,The Caves of Steel,Paul French,finished,2025-07-11 21:10:18.485 +0000,2025-07-11 21:10:18.485 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1361,Antifragile,Nassim Nicholas Taleb,deleted,2025-07-11 21:10:18.522 +0000,2025-09-15 21:56:15.252 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1363,Pathless Path,Paul Millerd,deleted,2025-07-11 21:10:18.597 +0000,2025-08-27 17:39:08.782 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1366,The Creative Act,Rick Rubin,did_not_finish,2025-07-11 21:10:18.714 +0000,2025-08-27 00:55:04.227 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1367,How to Read a Book,Mortimer J Adler + Charles Van Doren,deleted,2025-07-11 21:10:18.765 +0000,2025-08-28 20:31:13.425 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1368,Brave Habit,Todd A. Henry,deleted,2025-07-11 21:10:18.804 +0000,2025-08-27 17:38:46.862 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1369,The Name of the Wind,Patrick Rothfuss,finished,2025-07-11 21:10:18.854 +0000,2025-07-11 21:10:18.854 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1370,Beginning of Infinity,David Deutsch,did_not_finish,2025-07-11 21:10:18.901 +0000,2025-08-27 00:53:55.889 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1372,The Inner Game of Tennis,W Timothy Gallwey,want_to_read,2025-07-11 21:10:18.982 +0000,2025-07-11 21:10:18.982 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1378,The Mind and the Market,Jerry Z Muller,did_not_finish,2025-07-11 21:10:19.290 +0000,2025-07-11 21:10:19.290 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1379,The Alloy of Law,Brandon Sanderson,finished,2025-07-11 21:10:19.330 +0000,2025-08-27 17:38:40.402 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1380,Shadows of Self,Brandon Sanderson,finished,2025-07-11 21:10:19.368 +0000,2025-07-11 21:10:19.368 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1382,Fourth Wing,Rebecca Yarros,deleted,2025-07-11 21:10:19.447 +0000,2025-08-27 17:39:37.098 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1383,The Bands of Mourning,Brandon Sanderson,finished,2025-07-11 21:10:19.485 +0000,2025-09-19 17:38:34.427 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1384,How to Read a Book,Mortimer J Adler + Charles Van Doren,did_not_finish,2025-07-11 21:10:19.526 +0000,2025-08-28 20:31:13.564 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1385,Words of Radiance,Brandon Sanderson,finished,2025-07-11 21:10:19.567 +0000,2025-08-27 17:38:36.005 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1386,Words of Radiance,Brandon Sanderson,finished,2025-07-11 21:10:19.608 +0000,2025-08-26 22:24:50.343 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1387,Just Enough Software Architecture,George Fairbanks,want_to_read,2025-07-11 21:10:19.650 +0000,2025-08-27 17:38:33.628 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1388,Wolf Hall,Hilary Mantel,deleted,2025-07-11 21:10:19.688 +0000,2025-08-27 17:38:31.586 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1389,Compilers,Alfred Aho + Jeffrey Ullman + Ravi Sethi + Monica Lam,did_not_finish,2025-07-11 21:10:19.723 +0000,2025-07-11 21:10:19.723 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1390,Engineering a Compiler,Keith Cooper + Linda Torczon,want_to_read,2025-07-11 21:10:19.760 +0000,2025-08-27 17:38:26.323 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1391,Rise and Fall of D.O.D.O.,Neal Stephenson + Nicole Galland,deleted,2025-07-11 21:10:19.797 +0000,2025-08-27 17:38:24.158 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,1392,Rust for Rustaceans,Jon Gjengset,did_not_finish,2025-07-11 21:10:19.835 +0000,2025-08-08 01:49:25.813 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1394,The Cold Start Problem,Andrew Chen,deleted,2025-07-11 21:10:19.909 +0000,2025-08-27 17:38:20.237 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1396,Boaters of London,Ben Bowles,deleted,2025-07-11 21:10:19.986 +0000,2025-08-27 17:38:15.695 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1397,Introducing Relativity,Bruce Bassett,deleted,2025-07-11 21:10:20.025 +0000,2025-08-27 17:38:13.632 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1398,Harry Potter and the Sorcerer's Stone,J K Rowling,deleted,2025-07-11 21:10:20.064 +0000,2025-08-27 17:39:18.547 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1400,Wind and Truth,Brandon Sanderson,finished,2025-07-11 21:10:20.139 +0000,2025-07-11 21:10:20.139 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1401,Book of Enoch,Enoch,deleted,2025-07-11 21:10:20.185 +0000,2025-08-27 17:38:06.796 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1402,The Ultimate Hitchhiker's Guide to the Galaxy,Douglas Adams,deleted,2025-07-11 21:10:20.223 +0000,2025-08-27 17:39:20.800 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1403,Healing Back Pain,John E. Sarno,did_not_finish,2025-07-11 21:10:20.262 +0000,2025-07-11 21:10:20.262 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1404,Rhythm of War,Brandon Sanderson,finished,2025-07-11 21:10:20.303 +0000,2025-08-27 17:37:33.399 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,1405,The Way of Kings,Brandon Sanderson,finished,2025-07-11 21:10:20.341 +0000,2025-08-27 17:37:30.904 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,1407,Pathless Path,Paul Millerd,deleted,2025-07-11 21:10:20.422 +0000,2025-08-27 17:39:23.962 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1409,Build a Large Language Model (from Scratch),Sebastian Raschka,want_to_read,2025-07-11 21:10:20.498 +0000,2025-08-08 01:49:38.738 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1410,Secrets of Adulthood,Gretchen Rubin,deleted,2025-07-11 21:10:20.538 +0000,2025-08-27 17:37:41.241 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1411,So Good They Can't Ignore You,Cal Newport,deleted,2025-07-11 21:10:20.577 +0000,2025-08-27 17:39:34.688 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1412,Art Of Seduction,Robert Greene + Robert Greene,deleted,2025-07-11 21:10:20.620 +0000,2025-08-27 17:39:25.776 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1413,Say Nothing,Patrick Radden Keefe,deleted,2025-07-11 21:10:20.660 +0000,2025-08-27 00:54:39.951 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1414,Gardens of the Moon,Steven Erikson,deleted,2025-07-11 21:10:20.709 +0000,2025-08-27 17:39:31.983 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1415,The Meaning of Marriage,Timothy Keller + Kathy Keller,deleted,2025-07-11 21:10:20.750 +0000,2025-08-27 00:54:42.516 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1417,Ender's Game,Orson Scott Card,finished,2025-07-11 21:10:20.827 +0000,2025-08-27 00:54:46.986 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,1418,Coal,Barbara Freese,want_to_read,2025-07-11 21:10:20.871 +0000,2025-08-08 01:49:28.231 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,1419,Book Wars,John B Thompson,currently_reading,2025-07-11 21:10:20.916 +0000,2025-07-11 21:10:20.916 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,3984,She Comes First,Ian Kerner,want_to_read,2025-07-21 22:20:28.205 +0000,2025-08-08 01:49:30.525 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,4216,Waking Up,Sam Harris,finished,2025-07-29 21:04:44.116 +0000,2025-08-27 00:54:48.840 +0000,kindle
+Mitchell van der Hoeff,33990,4217,The Code Breaker,Walter Isaacson,did_not_finish,2025-07-29 21:04:45.504 +0000,2025-09-19 17:51:55.755 +0000,kindle
+Mitchell van der Hoeff,33990,4218,Harnessing Complexity,Robert Axelrod + Michael David Cohen,did_not_finish,2025-07-29 21:04:45.737 +0000,2025-08-27 00:54:52.793 +0000,kindle
+Mitchell van der Hoeff,33990,4219,The Future Is Faster Than You Think,Peter Diamandis + Steven Kotler,deleted,2025-07-29 21:04:45.972 +0000,2025-08-27 00:55:31.438 +0000,kindle
+Mitchell van der Hoeff,33990,4220,Evolving Self,Mihaly Csikszentmihalyi,deleted,2025-07-29 21:04:46.264 +0000,2025-08-27 00:55:37.299 +0000,kindle
+Mitchell van der Hoeff,33990,4221,Long Tail,Christopher Anderson + Chris Anderson,deleted,2025-07-29 21:04:46.472 +0000,2025-08-27 00:55:45.174 +0000,kindle
+Mitchell van der Hoeff,33990,4222,How Innovation Works,Matt Ridley,finished,2025-07-29 21:04:47.742 +0000,2025-08-27 00:54:57.056 +0000,kindle
+Mitchell van der Hoeff,33990,4610,Stillness Is the Key,Ryan Holiday,deleted,2025-08-07 02:23:53.860 +0000,2025-08-27 00:55:50.288 +0000,kindle
+Mitchell van der Hoeff,33990,4611,How Asia Works,Joe Studwell,deleted,2025-08-07 02:23:54.507 +0000,2025-09-19 17:52:04.121 +0000,kindle
+Mitchell van der Hoeff,33990,4612,A Thousand Brains,Jeff Hawkins + Jeff Hawkins + Jeff Hawkins,deleted,2025-08-07 02:23:54.975 +0000,2025-08-27 00:53:38.250 +0000,kindle
+Mitchell van der Hoeff,33990,4613,Out Of Control,Kevin Kelly + Kevin Kelly,deleted,2025-08-07 02:23:55.138 +0000,2025-08-27 00:53:33.483 +0000,kindle
+Mitchell van der Hoeff,33990,4614,When Money Dies,Adam Fergusson,finished,2025-08-07 02:23:55.882 +0000,2025-08-27 00:53:28.942 +0000,kindle
+Mitchell van der Hoeff,33990,4615,An Edible History of Humanity,Tom Standage,deleted,2025-08-07 02:23:56.003 +0000,2025-08-27 00:55:22.015 +0000,kindle
+Mitchell van der Hoeff,33990,4616,The Soul of A New Machine,John Kidder,finished,2025-08-07 02:23:56.376 +0000,2025-08-27 00:53:21.356 +0000,kindle
+Mitchell van der Hoeff,33990,5090,I Who Have Never Known Men,Jacqueline Harpman,deleted,2025-08-09 05:55:27.150 +0000,2025-08-28 20:31:11.759 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,6028,Atlas Shrugged,Ayn Rand,deleted,2025-08-13 21:48:11.857 +0000,2025-08-27 00:55:54.695 +0000,bookwise
+Mitchell van der Hoeff,33990,6510,Steal Like an Artist,Austin Kleon,deleted,2025-08-24 18:38:42.551 +0000,2025-08-27 00:55:13.654 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,6574,Name of the Wind,Patrick Rothfuss,finished,2025-08-26 23:12:23.503 +0000,2025-08-26 23:12:23.503 +0000,bookwise
+Mitchell van der Hoeff,33990,6601,How Asia Works,Joe Studwell,deleted,2025-08-28 20:50:45.285 +0000,2025-09-19 17:52:01.882 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,6602,How Asia Works,Joe Studwell,want_to_read,2025-08-28 20:53:30.320 +0000,2025-08-28 20:53:30.320 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,6618,Why Greatness Cannot Be Planned,Kenneth O Stanley + Joel Lehman,want_to_read,2025-08-30 21:50:40.133 +0000,2025-08-30 21:50:40.133 +0000,bookwise
+Mitchell van der Hoeff,33990,8249,The Victorian Internet,Tom Standage,want_to_read,2025-09-03 12:18:19.982 +0000,2025-10-05 19:02:51.109 +0000,bookwise
+Mitchell van der Hoeff,33990,10073,Ego Is the Enemy,Ryan Holiday,unsorted,2025-09-24 01:46:01.514 +0000,2025-10-17 06:24:19.103 +0000,kindle
+Mitchell van der Hoeff,33990,10079,Mesopotamia,Gwendolyn Leick,unsorted,2025-09-24 01:46:02.464 +0000,2025-10-17 06:24:19.103 +0000,kindle
+Mitchell van der Hoeff,33990,10084,The Myth of Sisyphus,Camus,unsorted,2025-09-24 01:46:03.202 +0000,2025-10-17 06:24:19.103 +0000,kindle
+Mitchell van der Hoeff,33990,10088,Umbrella Academy Volume 1: Apocalypse Suite,Gerard Way,unsorted,2025-09-24 01:46:03.743 +0000,2025-10-17 06:24:19.103 +0000,kindle
+Mitchell van der Hoeff,33990,11864,Letting Go: Holding the Family Together Through Mental Illness,Ronald Belanger,want_to_read,2025-10-02 19:26:21.254 +0000,2025-10-02 19:26:21.254 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,11865,The Other Side of Now,Paige Harbison,want_to_read,2025-10-02 20:14:51.664 +0000,2025-10-02 20:14:51.664 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,17566,Untethered Soul,,want_to_read,2025-10-20 22:58:37.781 +0000,2025-10-20 22:58:37.781 +0000,bookwise
+Mitchell van der Hoeff,33990,19105,John & Paul,Ian Leslie,want_to_read,2025-10-24 01:22:34.797 +0000,2025-10-24 01:22:34.797 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,19106,Curious,Ian Leslie + Ian Leslie,want_to_read,2025-10-24 01:23:13.748 +0000,2025-10-24 01:23:13.748 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,19115,Lone Wolf,Gregg Hurwitz,want_to_read,2025-10-24 14:40:26.208 +0000,2025-10-24 14:40:26.208 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,19120,Pete the Cat Rocks On!,J Dean + James Seay Dean + James Dean + Kim Dean,want_to_read,2025-10-24 15:08:05.538 +0000,2025-10-24 15:08:05.538 +0000,bookstore_ebook
+Mitchell van der Hoeff,33990,19133,The Ministry of Time,Kaliane Bradley,want_to_read,2025-10-24 21:04:14.173 +0000,2025-10-24 21:04:14.173 +0000,bookwise
+Mitchell van der Hoeff,33990,19476,Letter to my Father,Franz Kafka,want_to_read,2025-10-28 19:08:50.666 +0000,2025-10-28 19:08:50.666 +0000,uploaded_ebook
+Mitchell van der Hoeff,33990,20208,Oathbringer,Brandon Sanderson,deleted,2025-10-30 17:45:46.871 +0000,2025-10-30 17:45:51.612 +0000,bookwise
+Mitchell van der Hoeff,33990,20242,The Lincoln Highway,Amor Towles,want_to_read,2025-11-01 18:48:58.466 +0000,2025-11-01 18:48:58.466 +0000,bookwise

@@ -1,0 +1,36 @@
+Name,Profile ID,Book ID,Title,Author,Status,Created,Updated,Creation Origin
+Hannes Moser,631960,1977,Distributed Services with Go,Travis Jeffery,did_not_finish,2025-07-11 21:11:06.711 +0000,2025-07-11 21:11:06.711 +0000,uploaded_ebook
+Hannes Moser,631960,1978,From Objects to Functions,Uberto Barbini,did_not_finish,2025-07-11 21:11:06.746 +0000,2025-07-11 21:11:06.746 +0000,uploaded_ebook
+Hannes Moser,631960,1979,Definitive Antlr 4 Reference,Terence Parr,did_not_finish,2025-07-11 21:11:06.780 +0000,2025-07-11 21:11:06.780 +0000,uploaded_ebook
+Hannes Moser,631960,1980,Rust for Rustaceans,Jon Gjengset,did_not_finish,2025-07-11 21:11:06.817 +0000,2025-07-11 21:11:06.817 +0000,uploaded_ebook
+Hannes Moser,631960,1984,Gans in Action,Jakub Langr + Vladimir Bok,did_not_finish,2025-07-11 21:11:06.970 +0000,2025-07-11 21:11:06.970 +0000,uploaded_ebook
+Hannes Moser,631960,1987,Introducing Data Science,Davy Cielen + Arno Meysman + Mohamed Ali,did_not_finish,2025-07-11 21:11:07.083 +0000,2025-07-11 21:11:07.083 +0000,uploaded_ebook
+Hannes Moser,631960,1988,Graph-Powered Machine Learning,Alessandro Nego,want_to_read,2025-07-11 21:11:07.121 +0000,2025-07-11 21:11:07.121 +0000,uploaded_ebook
+Hannes Moser,631960,1989,"Algorithms of the Intelligent Web, Second Edition",Douglas McIlwraith + Haralambos Marmanis + Dmitry Babenko + Dmitry Babenko,want_to_read,2025-07-11 21:11:07.157 +0000,2025-07-11 21:11:07.157 +0000,uploaded_ebook
+Hannes Moser,631960,1990,Deep Learning for Search,Tommaso Teofili,did_not_finish,2025-07-11 21:11:07.190 +0000,2025-07-11 21:11:07.190 +0000,uploaded_ebook
+Hannes Moser,631960,1991,Deep Learning for Natural Language Processing,Stephan Raaijmakers,want_to_read,2025-07-11 21:11:07.227 +0000,2025-07-11 21:11:07.227 +0000,uploaded_ebook
+Hannes Moser,631960,1992,Practical Recommender Systems,Kim Falk,did_not_finish,2025-07-11 21:11:07.263 +0000,2025-07-11 21:11:07.263 +0000,uploaded_ebook
+Hannes Moser,631960,1997,Building Secure and Reliable Systems,Heather Adkins + Paul Blankinship + Piotr Lewandowski + Ana Oprea + Adam Stubblefield + Betsy Beyer,did_not_finish,2025-07-11 21:11:07.453 +0000,2025-07-11 21:11:07.453 +0000,uploaded_ebook
+Hannes Moser,631960,1998,Distributed Services with Go,Travis Jeffery,want_to_read,2025-07-11 21:11:07.489 +0000,2025-07-11 21:11:07.489 +0000,uploaded_ebook
+Hannes Moser,631960,1999,From Objects to Functions,Uberto Barbini,want_to_read,2025-07-11 21:11:07.524 +0000,2025-07-11 21:11:07.524 +0000,uploaded_ebook
+Hannes Moser,631960,2001,Rust for Rustaceans,Jon Gjengset,want_to_read,2025-07-11 21:11:07.597 +0000,2025-07-11 21:11:07.597 +0000,uploaded_ebook
+Hannes Moser,631960,2007,AI-Powered Search,Trey Grainger + Doug Turnbull + Max Irwin,did_not_finish,2025-07-11 21:11:07.813 +0000,2025-07-11 21:11:07.813 +0000,uploaded_ebook
+Hannes Moser,631960,2008,Rust for Rustaceans,Jon Gjengset,did_not_finish,2025-07-11 21:11:07.849 +0000,2025-07-11 21:11:07.849 +0000,uploaded_ebook
+Hannes Moser,631960,2010,An Introduction to Antonio Gramsci,George Hoare + Nathan Sperber,did_not_finish,2025-07-11 21:11:07.925 +0000,2025-07-11 21:11:07.925 +0000,uploaded_ebook
+Hannes Moser,631960,2011,Steve Jobs,Walter Isaacson + Walter Isaacson,finished,2025-07-11 21:11:07.964 +0000,2025-08-25 09:52:58.721 +0000,uploaded_ebook
+Hannes Moser,631960,2012,Build a Large Language Model (from Scratch),Sebastian Raschka,did_not_finish,2025-07-11 21:11:08.005 +0000,2025-07-11 21:11:08.005 +0000,uploaded_ebook
+Hannes Moser,631960,2013,Thinking in Systems,Donella Meadows,want_to_read,2025-07-11 21:11:08.046 +0000,2025-07-11 21:11:08.046 +0000,uploaded_ebook
+Hannes Moser,631960,2014,Hillbilly Elegy,J. D. Vance,want_to_read,2025-07-11 21:11:08.083 +0000,2025-07-11 21:11:08.083 +0000,uploaded_ebook
+Hannes Moser,631960,2015,Fahrenheit 451,Ray Bradbury,want_to_read,2025-07-11 21:11:08.120 +0000,2025-08-28 20:31:13.339 +0000,uploaded_ebook
+Hannes Moser,631960,2016,Machine Learning  and Deep Learning With Python,James Chen,did_not_finish,2025-07-11 21:11:08.159 +0000,2025-07-11 21:11:08.159 +0000,uploaded_ebook
+Hannes Moser,631960,2017,Extreme Ownership,Jocko Willink + Leif Babin,want_to_read,2025-07-11 21:11:08.199 +0000,2025-07-11 21:11:08.199 +0000,bookstore_ebook
+Hannes Moser,631960,2018,"Summary and Analysis of Thinking, Fast and Slow",Worth Books,want_to_read,2025-07-11 21:11:08.242 +0000,2025-07-11 21:11:08.242 +0000,bookstore_ebook
+Hannes Moser,631960,2019,Surrounded by Idiots,Thomas Erikson,did_not_finish,2025-07-11 21:11:08.281 +0000,2025-08-25 10:21:14.765 +0000,uploaded_ebook
+Hannes Moser,631960,2020,The Cold Start Problem,Andrew Chen,currently_reading,2025-07-11 21:11:08.317 +0000,2025-07-11 21:11:08.317 +0000,uploaded_ebook
+Hannes Moser,631960,2021,Gardens of the Moon,Steven Erikson,want_to_read,2025-07-11 21:11:08.353 +0000,2025-07-11 21:11:08.353 +0000,uploaded_ebook
+Hannes Moser,631960,5956,The Alchemist,Paulo Coelho,want_to_read,2025-08-13 06:27:40.273 +0000,2025-08-13 06:27:40.273 +0000,bookstore_ebook
+Hannes Moser,631960,6078,Steve Jobs,Walter Isaacson + Walter Isaacson,want_to_read,2025-08-14 15:39:04.963 +0000,2025-08-14 15:39:04.963 +0000,bookstore_ebook
+Hannes Moser,631960,6548,"Creativity, Inc. (The Expanded Edition)",Ed Catmull + Ed Catmull + Amy Wallace + Amy Wallace,want_to_read,2025-08-25 13:01:06.063 +0000,2025-08-25 13:01:06.063 +0000,uploaded_ebook
+Hannes Moser,631960,7260,Wool,Hugh Howey,want_to_read,2025-09-02 12:08:34.734 +0000,2025-09-02 12:08:34.734 +0000,bookstore_ebook
+Hannes Moser,631960,10615,Design Patterns in Modern C++,Dmitri Nesteruk,want_to_read,2025-09-26 16:42:08.556 +0000,2025-09-26 16:42:08.556 +0000,uploaded_ebook
+Hannes Moser,631960,20244,Crystal Stopper (Warbler Classics),Maurice Leblanc,want_to_read,2025-11-02 08:41:50.338 +0000,2025-11-02 08:41:50.338 +0000,uploaded_ebook

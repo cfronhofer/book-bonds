@@ -1,0 +1,8 @@
+Name,Profile ID,Book ID,Title,Author,Status,Created,Updated,Creation Origin
+Adam ,111032,564,How to Read a Book,Mortimer J Adler + Charles Van Doren,did_not_finish,2025-07-11 21:09:16.328 +0000,2025-08-28 20:31:13.544 +0000,uploaded_ebook
+Adam ,111032,568,Tracers in the Dark,Andy Greenberg,want_to_read,2025-07-11 21:09:16.521 +0000,2025-07-11 21:09:16.521 +0000,uploaded_ebook
+Adam ,111032,569,This Is Water,David Foster Wallace,finished,2025-07-11 21:09:16.593 +0000,2025-07-11 21:09:16.593 +0000,uploaded_ebook
+Adam ,111032,575,Traction,Gabriel Weinberg + Justin Mares,want_to_read,2025-07-11 21:09:16.874 +0000,2025-07-11 21:09:16.874 +0000,uploaded_ebook
+Adam ,111032,577,Cribsheet,Emily Oster,did_not_finish,2025-07-11 21:09:16.965 +0000,2025-07-11 21:09:16.965 +0000,uploaded_ebook
+Adam ,111032,578,Thinking in Bets,Annie Duke,want_to_read,2025-07-11 21:09:17.014 +0000,2025-07-11 21:09:17.014 +0000,uploaded_ebook
+Adam ,111032,579,Winning Government Contracts,Malcolm Parvey + Deborah Alston,did_not_finish,2025-07-11 21:09:17.059 +0000,2025-07-11 21:09:17.059 +0000,uploaded_ebook

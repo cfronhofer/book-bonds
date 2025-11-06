@@ -1,0 +1,4 @@
+Name,Profile ID,Book ID,Title,Author,Status,Created,Updated,Creation Origin
+Ibai Seco,1488391,1286,The Magic of Code,Samuel Arbesman,currently_reading,2025-07-11 21:10:11.979 +0000,2025-07-11 21:10:11.979 +0000,uploaded_ebook
+Ibai Seco,1488391,3771,The Bitcoin Standard,Saifedean Ammous,currently_reading,2025-07-13 21:56:47.535 +0000,2025-07-13 21:56:47.535 +0000,uploaded_ebook
+Ibai Seco,1488391,9068,Outliers,Malcolm Gladwell,want_to_read,2025-09-17 03:54:16.607 +0000,2025-09-17 03:54:16.607 +0000,bookstore_ebook

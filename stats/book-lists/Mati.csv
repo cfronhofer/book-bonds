@@ -1,0 +1,43 @@
+Name,Profile ID,Book ID,Title,Author,Status,Created,Updated,Creation Origin
+Matias Tucci,82049,3067,Rework,Jason Fried + David Heinemeier Hansson,did_not_finish,2025-07-11 21:12:34.328 +0000,2025-07-11 21:12:34.328 +0000,uploaded_ebook
+Matias Tucci,82049,3071,Waking Up,Sam Harris,finished,2025-07-11 21:12:34.468 +0000,2025-07-11 21:12:34.468 +0000,uploaded_ebook
+Matias Tucci,82049,3072,Zero to One,Peter A Thiel + Blake Masters,finished,2025-07-11 21:12:34.494 +0000,2025-07-11 21:12:34.494 +0000,uploaded_ebook
+Matias Tucci,82049,3073,Wisdom of Insecurity,Alan Watts,finished,2025-07-11 21:12:34.522 +0000,2025-07-11 21:12:34.522 +0000,uploaded_ebook
+Matias Tucci,82049,3075,The Way of Zen,Alan Watts,did_not_finish,2025-07-11 21:12:34.610 +0000,2025-07-11 21:12:34.610 +0000,uploaded_ebook
+Matias Tucci,82049,3076,"Thinking, Fast and Slow",Daniel Kahneman,want_to_read,2025-07-11 21:12:34.655 +0000,2025-07-11 21:12:34.655 +0000,uploaded_ebook
+Matias Tucci,82049,3077,Psychology of Money,Morgan  Housel,finished,2025-07-11 21:12:34.682 +0000,2025-07-11 21:12:34.682 +0000,uploaded_ebook
+Matias Tucci,82049,3089,The Pleasure of Finding Things Out,Richard P Feynman,want_to_read,2025-07-11 21:12:35.119 +0000,2025-07-11 21:12:35.119 +0000,uploaded_ebook
+Matias Tucci,82049,3091,Catching the Big Fish,David Lynch,did_not_finish,2025-07-11 21:12:35.211 +0000,2025-07-11 21:12:35.211 +0000,uploaded_ebook
+Matias Tucci,82049,3092,Contact,Carl Sagan,finished,2025-07-11 21:12:35.236 +0000,2025-07-11 21:12:35.236 +0000,uploaded_ebook
+Matias Tucci,82049,3093,Outlive,Peter Attia,want_to_read,2025-07-11 21:12:35.282 +0000,2025-07-11 21:12:35.282 +0000,uploaded_ebook
+Matias Tucci,82049,3094,Good Energy,Casey Means + Calley Means,did_not_finish,2025-07-11 21:12:35.326 +0000,2025-07-11 21:12:35.326 +0000,bookstore_ebook
+Matias Tucci,82049,3095,The Ultimate Hitchhiker's Guide to the Galaxy,Douglas Adams,did_not_finish,2025-07-11 21:12:35.371 +0000,2025-07-11 21:12:35.371 +0000,bookstore_ebook
+Matias Tucci,82049,3096,Careless People,Sarah Wynn-Williams,finished,2025-07-11 21:12:35.396 +0000,2025-07-11 21:12:35.396 +0000,uploaded_ebook
+Matias Tucci,82049,3097,The Book,Alan Watts,finished,2025-07-11 21:12:35.423 +0000,2025-07-11 21:12:35.423 +0000,uploaded_ebook
+Matias Tucci,82049,3098,Buddhism the Religion of No-Religion,Alan Watts + Watts,want_to_read,2025-07-11 21:12:35.465 +0000,2025-07-11 21:12:35.465 +0000,uploaded_ebook
+Matias Tucci,82049,3099,The Worlds I See,Dr. Fei-Fei Li,finished,2025-07-11 21:12:35.508 +0000,2025-08-15 15:21:22.883 +0000,bookstore_ebook
+Matias Tucci,82049,3575,Buddhism the Religion of No-Religion,Alan Watts + Watts,deleted,2025-07-11 21:34:17.235 +0000,2025-08-21 22:02:17.531 +0000,uploaded_ebook
+Matias Tucci,82049,4475,Ape that Understood the Universe,Steve Stewart-Williams,currently_reading,2025-08-04 17:23:51.603 +0000,2025-08-15 15:21:30.727 +0000,uploaded_ebook
+Matias Tucci,82049,4640,Acid for the Children,Flea,finished,2025-08-08 11:25:07.133 +0000,2025-08-18 04:05:17.037 +0000,uploaded_ebook
+Matias Tucci,82049,6358,Leviathan Wakes,James S. A. Corey,want_to_read,2025-08-15 16:33:48.981 +0000,2025-10-14 01:21:56.071 +0000,uploaded_ebook
+Matias Tucci,82049,6396,Scar Tissue,Anthony Kiedis + Larry Sloman,finished,2025-08-20 08:37:26.040 +0000,2025-09-04 14:48:33.277 +0000,uploaded_ebook
+Matias Tucci,82049,6529,Free Will,Sam Harris,finished,2025-08-25 04:06:25.760 +0000,2025-08-25 04:08:07.011 +0000,kindle
+Matias Tucci,82049,6530,Just Kids,Patti Smith + Patricia Owen-Smith,finished,2025-08-25 04:06:25.899 +0000,2025-08-25 04:08:01.808 +0000,kindle
+Matias Tucci,82049,6531,Kitchen Confidential,Anthony Bourdain,finished,2025-08-25 04:06:26.020 +0000,2025-08-25 04:07:58.685 +0000,kindle
+Matias Tucci,82049,6532,Meditations,Marcus Aurelius,want_to_read,2025-08-25 04:06:26.151 +0000,2025-10-18 10:39:29.425 +0000,kindle
+Matias Tucci,82049,6533,Permanent Record,Edward Snowden,finished,2025-08-25 04:06:26.287 +0000,2025-08-25 04:07:54.833 +0000,kindle
+Matias Tucci,82049,6534,Sapiens,Yuval Noah Harari,finished,2025-08-25 04:06:26.328 +0000,2025-08-25 04:07:52.416 +0000,kindle
+Matias Tucci,82049,6536,The Wisdom of Insecurity,Alan Watts,finished,2025-08-25 04:06:26.600 +0000,2025-08-25 04:09:13.657 +0000,kindle
+Matias Tucci,82049,6542,How to Change Your Mind,Michael Pollan,finished,2025-08-25 04:06:27.326 +0000,2025-08-25 04:07:38.717 +0000,kindle
+Matias Tucci,82049,6543,Man's Search for Meaning,Viktor E Frankl,finished,2025-08-25 04:06:27.440 +0000,2025-08-25 04:07:41.709 +0000,kindle
+Matias Tucci,82049,6549,"Creativity, Inc. (The Expanded Edition)",Ed Catmull + Ed Catmull + Amy Wallace + Amy Wallace,want_to_read,2025-08-25 14:33:40.821 +0000,2025-08-25 14:33:40.821 +0000,bookwise
+Matias Tucci,82049,6550,Thinking in Systems,Donella Meadows,want_to_read,2025-08-25 14:52:04.410 +0000,2025-08-25 14:52:04.410 +0000,bookwise
+Matias Tucci,82049,6591,A Brief History of Intelligence,Max S. Bennett,want_to_read,2025-08-28 09:39:24.817 +0000,2025-08-28 20:31:12.471 +0000,bookwise
+Matias Tucci,82049,8435,Book of Love,Darren Allen,currently_reading,2025-09-13 07:04:17.281 +0000,2025-09-13 14:18:15.737 +0000,uploaded_ebook
+Matias Tucci,82049,12386,The Molecule of More,Daniel Z Lieberman + Michael E Long,want_to_read,2025-10-07 09:59:00.106 +0000,2025-10-07 09:59:00.106 +0000,bookwise
+Matias Tucci,82049,12422,Inside Out,Nick Mason,deleted,2025-10-08 14:39:20.911 +0000,2025-10-14 01:51:37.391 +0000,bookwise
+Matias Tucci,82049,12427,No Lessons Learned,HBO + Lorraine Ali,finished,2025-10-08 19:21:30.488 +0000,2025-10-25 14:34:34.572 +0000,bookstore_ebook
+Matias Tucci,82049,17629,Project Mind Control,John Lisle,deleted,2025-10-23 13:26:13.419 +0000,2025-10-24 16:33:03.019 +0000,bookwise
+Matias Tucci,82049,19121,Project Mind Control,John Lisle,want_to_read,2025-10-24 16:32:17.847 +0000,2025-10-24 16:32:17.847 +0000,bookstore_ebook
+Matias Tucci,82049,19467,LSD and the Mind of the Universe,Christopher M Bache,want_to_read,2025-10-28 03:38:24.414 +0000,2025-10-28 03:38:24.414 +0000,bookstore_ebook
+Matias Tucci,82049,20199,Pragmatic Programmer,David Thomas + David St John Thomas + David H Thomas + Andy Hunt,want_to_read,2025-10-30 02:16:00.984 +0000,2025-10-30 12:56:14.966 +0000,uploaded_ebook

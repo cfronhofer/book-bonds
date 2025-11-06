@@ -1,0 +1,64 @@
+Name,Profile ID,Book ID,Title,Author,Status,Created,Updated,Creation Origin
+Johannes ,336098,2183,Atlas Shrugged,Ayn Rand,did_not_finish,2025-07-11 21:11:25.394 +0000,2025-07-11 21:11:25.394 +0000,uploaded_ebook
+Johannes ,336098,2184,Fountainhead,Ayn Rand,want_to_read,2025-07-11 21:11:25.442 +0000,2025-07-11 21:11:25.442 +0000,uploaded_ebook
+Johannes ,336098,2185,Building Knowledge Graphs,Jim Webber + Jesus Barrasa,did_not_finish,2025-07-11 21:11:25.480 +0000,2025-07-11 21:11:25.480 +0000,uploaded_ebook
+Johannes ,336098,2186,Serverless Apps on Cloudflare,Ashley Peacock,did_not_finish,2025-07-11 21:11:25.523 +0000,2025-07-11 21:11:25.523 +0000,uploaded_ebook
+Johannes ,336098,2187,AI Engineering,Chip Huyen,did_not_finish,2025-07-11 21:11:25.565 +0000,2025-07-11 21:11:25.565 +0000,uploaded_ebook
+Johannes ,336098,2188,Beginning of Infinity,David Deutsch,did_not_finish,2025-07-11 21:11:25.609 +0000,2025-07-11 21:11:25.609 +0000,uploaded_ebook
+Johannes ,336098,2192,Rise and Fall of D.O.D.O.,Neal Stephenson + Nicole Galland,did_not_finish,2025-07-11 21:11:25.783 +0000,2025-07-11 21:11:25.783 +0000,uploaded_ebook
+Johannes ,336098,2196,Boaters of London,Ben Bowles,did_not_finish,2025-07-11 21:11:25.949 +0000,2025-07-11 21:11:25.949 +0000,uploaded_ebook
+Johannes ,336098,2204,Reactive Design Patterns,Roland Kuhn + Roland Kuhn + Jamie M Allen + Jamie Allen + Brian Hanafee,did_not_finish,2025-07-11 21:11:26.357 +0000,2025-07-11 21:11:26.357 +0000,uploaded_ebook
+Johannes ,336098,2208,Why Greatness Cannot Be Planned,Kenneth O Stanley + Joel Lehman,did_not_finish,2025-07-11 21:11:26.536 +0000,2025-07-11 21:11:26.537 +0000,uploaded_ebook
+Johannes ,336098,2209,Dark Archive,Genevieve Cogman,want_to_read,2025-07-11 21:11:26.578 +0000,2025-07-11 21:11:26.578 +0000,uploaded_ebook
+Johannes ,336098,2210,Oathbringer,Brandon Sanderson,did_not_finish,2025-07-11 21:11:26.618 +0000,2025-07-11 21:11:26.618 +0000,uploaded_ebook
+Johannes ,336098,2211,Onyx Storm,Rebecca Yarros,did_not_finish,2025-07-11 21:11:26.664 +0000,2025-07-11 21:11:26.664 +0000,uploaded_ebook
+Johannes ,336098,2212,Functional Design and Architecture,Alexander Granin,did_not_finish,2025-07-11 21:11:26.708 +0000,2025-07-11 21:11:26.708 +0000,uploaded_ebook
+Johannes ,336098,2217,Dark Archive,Genevieve Cogman,did_not_finish,2025-07-11 21:11:26.921 +0000,2025-07-11 21:11:26.921 +0000,uploaded_ebook
+Johannes ,336098,2219,Clear Thinking,Shane Parrish,did_not_finish,2025-07-11 21:11:27.009 +0000,2025-07-11 21:11:27.009 +0000,bookstore_ebook
+Johannes ,336098,2220,Build a Large Language Model (From Scratch),Sebastian Raschka,did_not_finish,2025-07-11 21:11:27.053 +0000,2025-07-11 21:11:27.053 +0000,bookstore_ebook
+Johannes ,336098,2222,A Sword of Bronze and Ashes,Anna Smith Spark,did_not_finish,2025-07-11 21:11:27.151 +0000,2025-07-11 21:11:27.151 +0000,uploaded_ebook
+Johannes ,336098,2225,Overkill,Paul A Offit,want_to_read,2025-07-11 21:11:27.303 +0000,2025-07-11 21:11:27.303 +0000,uploaded_ebook
+Johannes ,336098,2226,Papyrus,Irene Vallejo,did_not_finish,2025-07-11 21:11:27.345 +0000,2025-07-11 21:11:27.345 +0000,uploaded_ebook
+Johannes ,336098,2229,Anthology of Balaji,Eric Jorgenson,finished,2025-07-11 21:11:27.478 +0000,2025-07-11 21:11:27.478 +0000,uploaded_ebook
+Johannes ,336098,2232,The Permanent Portfolio,Craig Rowland + J. M. Lawson,did_not_finish,2025-07-11 21:11:27.607 +0000,2025-07-11 21:11:27.607 +0000,uploaded_ebook
+Johannes ,336098,2234,Extreme Ownership,Jocko Willink + Leif Babin,did_not_finish,2025-07-11 21:11:27.690 +0000,2025-07-11 21:11:27.690 +0000,uploaded_ebook
+Johannes ,336098,2237,Wind and Truth,Brandon Sanderson,did_not_finish,2025-07-11 21:11:27.816 +0000,2025-07-11 21:11:27.816 +0000,uploaded_ebook
+Johannes ,336098,2238,The Perfect Loaf,Maurizio Leo,did_not_finish,2025-07-11 21:11:27.869 +0000,2025-07-11 21:11:27.869 +0000,uploaded_ebook
+Johannes ,336098,2240,The Name of the Wind,Patrick Rothfuss,did_not_finish,2025-07-11 21:11:27.957 +0000,2025-07-11 21:11:27.957 +0000,uploaded_ebook
+Johannes ,336098,2241,One Thing Holding You Back,Raphael Cushnir + Raphael Cushnir,want_to_read,2025-07-11 21:11:28.000 +0000,2025-07-11 21:11:28.000 +0000,uploaded_ebook
+Johannes ,336098,2243,Emily Wilde's Map of the Otherlands,Heather Fawcett,currently_reading,2025-07-11 21:11:28.084 +0000,2025-07-11 21:11:28.084 +0000,uploaded_ebook
+Johannes ,336098,2246,Food,Mark Hyman,currently_reading,2025-07-11 21:11:28.213 +0000,2025-07-11 21:11:28.213 +0000,uploaded_ebook
+Johannes ,336098,2248,Machine Learning  and Deep Learning With Python,James Chen,did_not_finish,2025-07-11 21:11:28.298 +0000,2025-07-11 21:11:28.298 +0000,uploaded_ebook
+Johannes ,336098,2249,Atlas Shrugged,Ayn Rand,finished,2025-07-11 21:11:28.338 +0000,2025-09-02 20:43:19.817 +0000,uploaded_ebook
+Johannes ,336098,2250,The Perfect Hope,Nora Roberts,currently_reading,2025-07-11 21:11:28.379 +0000,2025-07-11 21:11:28.379 +0000,uploaded_ebook
+Johannes ,336098,2252,The Dreaming Void,Peter F Hamilton,currently_reading,2025-07-11 21:11:28.465 +0000,2025-07-11 21:11:28.465 +0000,uploaded_ebook
+Johannes ,336098,2255,Leave No Trace,Hannah Nyala,currently_reading,2025-07-11 21:11:28.587 +0000,2025-07-11 21:11:28.587 +0000,uploaded_ebook
+Johannes ,336098,2256,When Breath Becomes Air,Paul Kalanithi,currently_reading,2025-07-11 21:11:28.631 +0000,2025-07-11 21:11:28.631 +0000,uploaded_ebook
+Johannes ,336098,3580,The Perfect Loaf,Maurizio Leo,deleted,2025-07-11 21:34:18.788 +0000,2025-08-21 22:02:17.643 +0000,uploaded_ebook
+Johannes ,336098,3682,Wind and Truth,Brandon Sanderson,deleted,2025-07-11 21:41:13.299 +0000,2025-08-21 22:02:20.228 +0000,bookstore_ebook
+Johannes ,336098,3742,Click,Jake Knapp,finished,2025-07-13 12:33:06.110 +0000,2025-07-13 12:33:06.110 +0000,bookstore_ebook
+Johannes ,336098,3822,Culture & Power,David Swartz,want_to_read,2025-07-16 14:11:16.440 +0000,2025-07-16 14:11:16.440 +0000,uploaded_ebook
+Johannes ,336098,3823,Drug Cartels Do Not Exist,Oswaldo Zavala,want_to_read,2025-07-16 14:15:04.452 +0000,2025-07-16 14:15:04.453 +0000,uploaded_ebook
+Johannes ,336098,3824,"Too Soon Old, Too Late Smart",Gordon Livingston,currently_reading,2025-07-16 14:19:11.770 +0000,2025-07-16 14:19:11.770 +0000,uploaded_ebook
+Johannes ,336098,3826,Focusing,Eugene T Gendlin,deleted,2025-07-16 14:27:11.612 +0000,2025-08-21 22:02:21.473 +0000,uploaded_ebook
+Johannes ,336098,3828,Future Ethics,Cennydd Bowles,currently_reading,2025-07-16 14:31:04.399 +0000,2025-07-16 14:31:04.399 +0000,uploaded_ebook
+Johannes ,336098,3991,Memories of Ice,Steven Erikson,deleted,2025-07-22 11:43:50.529 +0000,2025-08-21 22:02:21.724 +0000,bookstore_ebook
+Johannes ,336098,4038,Memories of Ice,Steven Erikson,deleted,2025-07-23 08:56:27.132 +0000,2025-08-21 22:02:21.869 +0000,bookstore_ebook
+Johannes ,336098,4056,Intermezzo,Sally Rooney,currently_reading,2025-07-24 07:28:49.611 +0000,2025-08-28 20:31:12.860 +0000,uploaded_ebook
+Johannes ,336098,4074,Focusing,Eugene T Gendlin,currently_reading,2025-07-24 15:28:52.656 +0000,2025-07-24 15:28:52.656 +0000,uploaded_ebook
+Johannes ,336098,4118,Connecticut Yankee in King Arthur's Court (Barnes & Noble Classics Series),Mark Twain,currently_reading,2025-07-25 07:56:48.497 +0000,2025-07-25 07:56:48.497 +0000,uploaded_ebook
+Johannes ,336098,4180,Contagious,J Berger,want_to_read,2025-07-28 21:07:05.673 +0000,2025-07-28 21:07:05.673 +0000,bookstore_ebook
+Johannes ,336098,4199,The Martian,Andy Weir,currently_reading,2025-07-29 07:34:15.372 +0000,2025-07-29 07:34:15.373 +0000,uploaded_ebook
+Johannes ,336098,4200,The AI Con,Emily M Bender + Alex Hanna,currently_reading,2025-07-29 07:42:14.669 +0000,2025-07-29 07:42:14.669 +0000,uploaded_ebook
+Johannes ,336098,4362,Shalador's Lady,Anne Bishop,finished,2025-08-01 11:20:21.894 +0000,2025-08-01 11:20:21.894 +0000,uploaded_ebook
+Johannes ,336098,4363,The Queen's Weapons,Anne Bishop,want_to_read,2025-08-01 11:24:22.882 +0000,2025-08-01 11:24:22.882 +0000,uploaded_ebook
+Johannes ,336098,5113,Paper Menagerie and Other Stories,Yu Liu,deleted,2025-08-11 13:28:09.911 +0000,2025-08-21 22:02:22.260 +0000,uploaded_ebook
+Johannes ,336098,8334,Fire Sermon,Darren Allen,deleted,2025-09-10 12:46:25.055 +0000,2025-09-29 06:49:27.666 +0000,uploaded_ebook
+Johannes ,336098,13461,The Molecule of More,Daniel Z Lieberman + Michael E Long,want_to_read,2025-10-12 06:09:13.291 +0000,2025-10-12 06:09:13.291 +0000,bookwise
+Johannes ,336098,14602,"Vital Question: Energy, Evolution, and the Origins of Complex Life",Nicholas Lane,want_to_read,2025-10-16 06:47:17.116 +0000,2025-10-16 06:47:17.116 +0000,bookwise
+Johannes ,336098,17529,The Magus,John Fowles + John Fowles,want_to_read,2025-10-18 13:51:59.192 +0000,2025-10-18 13:51:59.192 +0000,bookstore_ebook
+Johannes ,336098,17530,The Magus,John Fowles + John Fowles,want_to_read,2025-10-18 13:52:37.096 +0000,2025-10-18 13:52:37.096 +0000,bookstore_ebook
+Johannes ,336098,19454,Pete the Cat Rocks On!,J Dean + James Seay Dean + James Dean + Kim Dean,want_to_read,2025-10-27 13:07:30.963 +0000,2025-10-27 13:07:30.963 +0000,bookstore_ebook
+Johannes ,336098,20237,Click Here,Alex Schultz,deleted,2025-11-01 06:51:18.720 +0000,2025-11-01 06:51:33.682 +0000,bookstore_ebook
+Johannes ,336098,20238,Click Here,Alex Schultz,want_to_read,2025-11-01 06:51:18.847 +0000,2025-11-01 06:51:18.847 +0000,bookstore_ebook
+Johannes ,336098,20239,Click Here,Alex Schultz,want_to_read,2025-11-01 06:56:59.516 +0000,2025-11-01 06:56:59.516 +0000,bookstore_ebook

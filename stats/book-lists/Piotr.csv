@@ -1,0 +1,52 @@
+Name,Profile ID,Book ID,Title,Author,Status,Created,Updated,Creation Origin
+Piotr ,1414139,8248,How to Read a Book,Mortimer J Adler + Charles Van Doren,want_to_read,2025-09-03 10:52:13.855 +0000,2025-09-03 10:52:13.855 +0000,bookstore_ebook
+Piotr ,1414139,11866,The Alchemist,Paulo Coelho,want_to_read,2025-10-02 21:07:38.085 +0000,2025-10-02 21:07:38.085 +0000,bookstore_ebook
+Piotr ,1414139,14626,1491 (Second Edition),Charles C. Mann,unsorted,2025-10-17 16:18:34.569 +0000,2025-10-17 16:18:34.569 +0000,kindle
+Piotr ,1414139,14631,ADHD is Awesome,Penn Holderness + Kim Holderness,unsorted,2025-10-17 16:18:35.224 +0000,2025-10-17 16:18:35.224 +0000,kindle
+Piotr ,1414139,14638,Driven to Distraction (Revised),Edward M. Hallowell + John J. Ratey,unsorted,2025-10-17 16:18:36.026 +0000,2025-10-17 16:18:36.026 +0000,kindle
+Piotr ,1414139,14639,"Easy To Love, Difficult To Discipline",Becky A Bailey,unsorted,2025-10-17 16:18:36.057 +0000,2025-10-17 16:18:36.057 +0000,kindle
+Piotr ,1414139,14644,Exploring Raspberry Pi,Derek Molloy,want_to_read,2025-10-17 16:18:36.594 +0000,2025-10-22 10:46:43.964 +0000,kindle
+Piotr ,1414139,14645,Faster Than Normal,Peter Shankman,unsorted,2025-10-17 16:18:36.703 +0000,2025-10-17 16:18:36.703 +0000,kindle
+Piotr ,1414139,14648,How to Keep House While Drowning,Katherine Davis,unsorted,2025-10-17 16:18:36.971 +0000,2025-10-17 16:18:36.971 +0000,kindle
+Piotr ,1414139,14650,How to Talk So Kids Will Listen & Listen So Kids Will Talk,Adele Faber + Elaine Mazlish,unsorted,2025-10-17 16:18:37.137 +0000,2025-10-17 16:18:37.137 +0000,kindle
+Piotr ,1414139,14653,Murder at Haven's Rock,Kelley Armstrong,unsorted,2025-10-17 16:18:37.458 +0000,2025-10-17 16:18:37.458 +0000,kindle
+Piotr ,1414139,14657,Parenting Children With ADHD,Vincent J Monastra,unsorted,2025-10-17 16:18:37.853 +0000,2025-10-17 16:18:37.853 +0000,kindle
+Piotr ,1414139,14659,"Raising Your Spirited Child, Third Edition",Mary Sheedy Kurcinka,unsorted,2025-10-17 16:18:38.008 +0000,2025-10-17 16:18:38.008 +0000,kindle
+Piotr ,1414139,14661,Reconnected Kids,Robert Melillo,unsorted,2025-10-17 16:18:38.140 +0000,2025-10-17 16:18:38.140 +0000,kindle
+Piotr ,1414139,14662,Scattered Minds,,unsorted,2025-10-17 16:18:38.314 +0000,2025-10-17 16:18:38.314 +0000,kindle
+Piotr ,1414139,14664,Smart but Scattered,Peg Dawson + Richard Guare + Colin Guare,unsorted,2025-10-17 16:18:38.453 +0000,2025-10-17 16:18:38.453 +0000,kindle
+Piotr ,1414139,14666,Succeeding With Adult ADHD,Abigail L. Levrini,unsorted,2025-10-17 16:18:38.591 +0000,2025-10-17 16:18:38.591 +0000,kindle
+Piotr ,1414139,14669,Taking Charge of Adult ADHD,Russell Barkley,unsorted,2025-10-17 16:18:38.850 +0000,2025-10-17 16:18:38.850 +0000,kindle
+Piotr ,1414139,14674,"Essential Guide to Raising Complex Kids with ADHD, Anxiety, and More",Elaine Taylor-Klaus,unsorted,2025-10-17 16:18:40.023 +0000,2025-10-17 16:18:40.023 +0000,kindle
+Piotr ,1414139,14676,The Explosive Child [Sixth Edition],Ross W Greene,unsorted,2025-10-17 16:18:40.275 +0000,2025-10-17 16:18:40.275 +0000,kindle
+Piotr ,1414139,14677,"Kid-Friendly ADHD & Autism Cookbook, 3rd edition",Pamela J. Compart + Dana Laake,unsorted,2025-10-17 16:18:40.304 +0000,2025-10-17 16:18:40.304 +0000,kindle
+Piotr ,1414139,14685,What Your ADHD Child Wishes You Knew,Sharon Saline,unsorted,2025-10-17 16:18:41.396 +0000,2025-10-17 16:18:41.396 +0000,kindle
+Piotr ,1414139,14686,When an Adult You Love Has ADHD,Russell Barkley,unsorted,2025-10-17 16:18:41.426 +0000,2025-10-17 16:18:41.426 +0000,kindle
+Piotr ,1414139,14687,Your Brain's Not Broken,"Rosier, Tamara,PhD",unsorted,2025-10-17 16:18:41.455 +0000,2025-10-17 16:18:41.455 +0000,kindle
+Piotr ,1414139,16314,12 Principles for Raising a Child with ADHD,Russell Barkley,deleted,2025-10-17 17:58:26.595 +0000,2025-10-17 17:58:59.652 +0000,bookstore_ebook
+Piotr ,1414139,16315,12 Principles for Raising a Child with ADHD,Russell Barkley,deleted,2025-10-17 17:58:26.711 +0000,2025-10-17 17:59:02.493 +0000,bookstore_ebook
+Piotr ,1414139,17640,1491 (Second Edition),Charles C. Mann,unsorted,2025-10-23 17:13:56.957 +0000,2025-10-23 17:13:56.957 +0000,kindle
+Piotr ,1414139,17645,ADHD is Awesome,Penn Holderness + Kim Holderness,unsorted,2025-10-23 17:13:57.692 +0000,2025-10-23 17:13:57.692 +0000,kindle
+Piotr ,1414139,17652,Driven to Distraction (Revised),Edward M. Hallowell + John J. Ratey,unsorted,2025-10-23 17:13:58.608 +0000,2025-10-23 17:13:58.609 +0000,kindle
+Piotr ,1414139,17653,"Easy To Love, Difficult To Discipline",Becky A Bailey,unsorted,2025-10-23 17:13:58.653 +0000,2025-10-23 17:13:58.653 +0000,kindle
+Piotr ,1414139,17658,Exploring Raspberry Pi,Derek Molloy,unsorted,2025-10-23 17:13:59.407 +0000,2025-10-23 17:13:59.407 +0000,kindle
+Piotr ,1414139,17659,Faster Than Normal,Peter Shankman,unsorted,2025-10-23 17:13:59.455 +0000,2025-10-23 17:13:59.455 +0000,kindle
+Piotr ,1414139,17662,How to Keep House While Drowning,Katherine Davis,unsorted,2025-10-23 17:13:59.789 +0000,2025-10-23 17:13:59.789 +0000,kindle
+Piotr ,1414139,17664,How to Talk So Kids Will Listen & Listen So Kids Will Talk,Adele Faber + Elaine Mazlish,unsorted,2025-10-23 17:13:59.999 +0000,2025-10-23 17:13:59.999 +0000,kindle
+Piotr ,1414139,17667,Murder at Haven's Rock,Kelley Armstrong,unsorted,2025-10-23 17:14:00.449 +0000,2025-10-23 17:14:00.449 +0000,kindle
+Piotr ,1414139,17671,Parenting Children With ADHD,Vincent J Monastra,unsorted,2025-10-23 17:14:00.952 +0000,2025-10-23 17:14:00.952 +0000,kindle
+Piotr ,1414139,17673,"Raising Your Spirited Child, Third Edition",Mary Sheedy Kurcinka,unsorted,2025-10-23 17:14:01.157 +0000,2025-10-23 17:14:01.157 +0000,kindle
+Piotr ,1414139,17675,Reconnected Kids,Robert Melillo,unsorted,2025-10-23 17:14:01.363 +0000,2025-10-23 17:14:01.363 +0000,kindle
+Piotr ,1414139,17676,Scattered Minds,,unsorted,2025-10-23 17:14:01.407 +0000,2025-10-23 17:14:01.407 +0000,kindle
+Piotr ,1414139,17678,Smart but Scattered,Peg Dawson + Richard Guare + Colin Guare,unsorted,2025-10-23 17:14:01.586 +0000,2025-10-23 17:14:01.586 +0000,kindle
+Piotr ,1414139,17680,Succeeding With Adult ADHD,Abigail L. Levrini,unsorted,2025-10-23 17:14:01.769 +0000,2025-10-23 17:14:01.769 +0000,kindle
+Piotr ,1414139,17683,Taking Charge of Adult ADHD,Russell Barkley,unsorted,2025-10-23 17:14:02.082 +0000,2025-10-23 17:14:02.082 +0000,kindle
+Piotr ,1414139,17688,"Essential Guide to Raising Complex Kids with ADHD, Anxiety, and More",Elaine Taylor-Klaus,unsorted,2025-10-23 17:14:03.219 +0000,2025-10-23 17:14:03.219 +0000,kindle
+Piotr ,1414139,17690,The Explosive Child [Sixth Edition],Ross W Greene,unsorted,2025-10-23 17:14:03.477 +0000,2025-10-23 17:14:03.477 +0000,kindle
+Piotr ,1414139,17691,"Kid-Friendly ADHD & Autism Cookbook, 3rd edition",Pamela J. Compart + Dana Laake,unsorted,2025-10-23 17:14:03.524 +0000,2025-10-23 17:14:03.524 +0000,kindle
+Piotr ,1414139,17699,What Your ADHD Child Wishes You Knew,Sharon Saline,unsorted,2025-10-23 17:14:04.745 +0000,2025-10-23 17:14:04.745 +0000,kindle
+Piotr ,1414139,17700,When an Adult You Love Has ADHD,Russell Barkley,unsorted,2025-10-23 17:14:04.788 +0000,2025-10-23 17:14:04.788 +0000,kindle
+Piotr ,1414139,17701,Your Brain's Not Broken,"Rosier, Tamara,PhD",unsorted,2025-10-23 17:14:04.835 +0000,2025-10-23 17:14:04.835 +0000,kindle
+Piotr ,1414139,20205,Book Wars,John B Thompson,deleted,2025-10-30 12:31:17.387 +0000,2025-10-30 12:33:17.657 +0000,bookwise
+Piotr ,1414139,20206,All About Love,Bell Hooks,deleted,2025-10-30 12:33:23.361 +0000,2025-10-30 12:33:38.627 +0000,bookwise
+Piotr ,1414139,20207,Metaphors We Live by,George Lakoff + Mark A Johnson + Mark Johnson,deleted,2025-10-30 12:34:58.508 +0000,2025-10-30 12:35:03.717 +0000,bookwise
