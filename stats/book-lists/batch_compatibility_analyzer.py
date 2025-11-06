@@ -46,27 +46,28 @@ class ReadingCompatibilityAnalyzer:
         df2['primary_author'] = df2['Author'].apply(self.get_primary_author)
         
         # Create status-based sets
+        # Include both 'finished' and 'currently_reading' in the finished category
         books1 = {
-            'finished': set(df1[df1['Status'] == 'finished']['normalized_title']),
+            'finished': set(df1[df1['Status'].isin(['finished', 'currently_reading'])]['normalized_title']),
             'want_to_read': set(df1[df1['Status'] == 'want_to_read']['normalized_title']),
             'did_not_finish': set(df1[df1['Status'] == 'did_not_finish']['normalized_title']),
             'all': set(df1['normalized_title'])
         }
-        
+
         books2 = {
-            'finished': set(df2[df2['Status'] == 'finished']['normalized_title']),
+            'finished': set(df2[df2['Status'].isin(['finished', 'currently_reading'])]['normalized_title']),
             'want_to_read': set(df2[df2['Status'] == 'want_to_read']['normalized_title']),
             'did_not_finish': set(df2[df2['Status'] == 'did_not_finish']['normalized_title']),
             'all': set(df2['normalized_title'])
         }
-        
+
         authors1 = {
-            'finished': set(df1[df1['Status'] == 'finished']['primary_author']) - {''},
+            'finished': set(df1[df1['Status'].isin(['finished', 'currently_reading'])]['primary_author']) - {''},
             'all': set(df1['primary_author']) - {''}
         }
-        
+
         authors2 = {
-            'finished': set(df2[df2['Status'] == 'finished']['primary_author']) - {''},
+            'finished': set(df2[df2['Status'].isin(['finished', 'currently_reading'])]['primary_author']) - {''},
             'all': set(df2['primary_author']) - {''}
         }
         
@@ -92,34 +93,34 @@ class ReadingCompatibilityAnalyzer:
         else:
             scores['shared_finished'] = 0
             
-        # 2. Shared authors (25%)
+        # 2. Shared authors (30%)
         if len(authors1['all']) + len(authors2['all']) > 0:
             author_jaccard = len(shared_authors_all) / len(authors1['all'] | authors2['all'])
-            scores['shared_authors'] = np.sqrt(author_jaccard) * 0.25
+            scores['shared_authors'] = np.sqrt(author_jaccard) * 0.30
         else:
             scores['shared_authors'] = 0
             
-        # 3. Cross-recommendations (20%)
+        # 3. Cross-recommendations (10%)
         total_possible = len(books1['finished']) + len(books2['finished'])
         if total_possible > 0:
             cross_rec_score = (len(p1_read_p2_wants) + len(p2_read_p1_wants)) / (total_possible * 0.1)
-            scores['cross_recommendations'] = min(1.0, cross_rec_score) * 0.20
+            scores['cross_recommendations'] = min(1.0, cross_rec_score) * 0.10
         else:
             scores['cross_recommendations'] = 0
             
-        # 4. Shared TBR (10%)
+        # 4. Shared TBR (20%)
         if len(books1['want_to_read']) + len(books2['want_to_read']) > 0:
             tbr_jaccard = len(shared_tbr) / len(books1['want_to_read'] | books2['want_to_read'])
-            scores['shared_tbr'] = tbr_jaccard * 0.10
+            scores['shared_tbr'] = tbr_jaccard * 0.20
         else:
             scores['shared_tbr'] = 0
             
-        # 5. Reading behavior (10%)
+        # 5. Reading behavior (5%)
         p1_finish_rate = len(books1['finished']) / len(books1['all']) if len(books1['all']) > 0 else 0
         p2_finish_rate = len(books2['finished']) / len(books2['all']) if len(books2['all']) > 0 else 0
         finish_rate_similarity = 1 - abs(p1_finish_rate - p2_finish_rate)
         size_ratio = min(len(books1['all']), len(books2['all'])) / max(len(books1['all']), len(books2['all'])) if max(len(books1['all']), len(books2['all'])) > 0 else 0
-        scores['reading_behavior'] = (finish_rate_similarity * 0.7 + size_ratio * 0.3) * 0.10
+        scores['reading_behavior'] = (finish_rate_similarity * 0.7 + size_ratio * 0.3) * 0.05
         
         # 6. Disagreement penalty
         disagreements = len(p1_finished_p2_dnf) + len(p2_finished_p1_dnf)
@@ -130,9 +131,9 @@ class ReadingCompatibilityAnalyzer:
         # Get top shared authors with counts
         shared_author_counts = []
         if shared_authors_finished:
-            p1_finished = df1[df1['Status'] == 'finished']
-            p2_finished = df2[df2['Status'] == 'finished']
-            
+            p1_finished = df1[df1['Status'].isin(['finished', 'currently_reading'])]
+            p2_finished = df2[df2['Status'].isin(['finished', 'currently_reading'])]
+
             for author in shared_authors_finished:
                 p1_count = len(p1_finished[p1_finished['primary_author'] == author])
                 p2_count = len(p2_finished[p2_finished['primary_author'] == author])
@@ -142,7 +143,7 @@ class ReadingCompatibilityAnalyzer:
                     'person2_count': p2_count,
                     'total': p1_count + p2_count
                 })
-            
+
             shared_author_counts.sort(key=lambda x: x['total'], reverse=True)
         
         # Generate diagnosis
@@ -215,11 +216,11 @@ class ReadingCompatibilityAnalyzer:
         diagnosis_parts.append(f"{emoji} {level} COMPATIBILITY ({score*100:.1f}%)")
         
         # Key insights
-        if shared_finished > 20:
+        if shared_finished > 10:
             diagnosis_parts.append(f"Strong overlap with {shared_finished} shared books.")
-        elif shared_finished > 10:
-            diagnosis_parts.append(f"Decent overlap with {shared_finished} shared books.")
         elif shared_finished > 5:
+            diagnosis_parts.append(f"Decent overlap with {shared_finished} shared books.")
+        elif shared_finished > 2:
             diagnosis_parts.append(f"Some overlap with {shared_finished} shared books.")
         else:
             diagnosis_parts.append(f"Limited overlap with only {shared_finished} shared books.")
@@ -246,9 +247,9 @@ class ReadingCompatibilityAnalyzer:
             diagnosis_parts.append(f"Minor taste differences ({disagreements} disagreements).")
         
         # Author overlap
-        if shared_authors > 20:
+        if shared_authors > 5:
             diagnosis_parts.append(f"Very strong author overlap ({shared_authors} shared).")
-        elif shared_authors > 10:
+        elif shared_authors > 2:
             diagnosis_parts.append(f"Good author overlap ({shared_authors} shared).")
         
         return " ".join(diagnosis_parts)
