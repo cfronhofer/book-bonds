@@ -1,0 +1,35 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f5a962"/>
+      <stop offset="50%" style="stop-color:#e8843c"/>
+      <stop offset="100%" style="stop-color:#d17028"/>
+    </linearGradient>
+    <linearGradient id="bg-dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e293b"/>
+      <stop offset="100%" style="stop-color:#0f172a"/>
+    </linearGradient>
+  </defs>
+  <!-- Background rounded square -->
+  <rect width="256" height="256" rx="56" fill="url(#bg-dark)"/>
+  
+  <!-- Logo elements centered -->
+  <g transform="translate(128, 128)">
+    <!-- Circle behind books -->
+    <circle cx="0" cy="0" r="58" fill="none" stroke="url(#grad-dark)" stroke-width="5" opacity="0.95"/>
+    
+    <!-- Left book -->
+    <g transform="translate(-78, -40) scale(1.6)">
+      <rect x="0" y="0" width="35" height="50" rx="2" fill="#c8692d"/>
+      <rect x="2" y="0" width="3" height="50" fill="#a0511f" opacity="0.6"/>
+      <rect x="33" y="2" width="2" height="46" fill="#f5f5f5" opacity="0.9"/>
+    </g>
+    
+    <!-- Right book -->
+    <g transform="translate(22, -40) scale(1.6)">
+      <rect x="0" y="0" width="35" height="50" rx="2" fill="#e8843c"/>
+      <rect x="30" y="0" width="3" height="50" fill="#d17028" opacity="0.6"/>
+      <rect x="0" y="2" width="2" height="46" fill="#f5f5f5" opacity="0.9"/>
+    </g>
+  </g>
+</svg>

@@ -1,7 +1,8 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import compatibilityData from "../stats/compatibility_results.json";
+import Image from "next/image";
+import compatibilityData from "../stats/book-lists/outputs/compatibility_results.json";
 import type { CompatibilityData, CompatibilityResult } from "./types";
 
 const data = compatibilityData as CompatibilityData;
@@ -34,27 +35,36 @@ export default function Home() {
   }, [person1, person2]);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-teal-950 via-emerald-950 to-teal-900 py-12 px-4">
+    <div className="min-h-screen bg-slate-700 py-12 px-4">
       <main className="max-w-4xl mx-auto">
         <div className="text-center mb-12">
-          <h1 className="text-4xl font-bold text-white mb-3">
+          <div className="flex justify-center mb-6">
+            <Image
+              src="/book-bond-dark.svg"
+              alt="Book Bonds Logo"
+              width={120}
+              height={120}
+              priority
+            />
+          </div>
+          <h1 className="text-4xl font-extrabold text-slate-200 mb-3">
             Book Bonds
           </h1>
-          <p className="text-lg text-teal-100/80">
+          <p className="text-lg text-slate-200/80">
             Discover your reading compatibility!
           </p>
         </div>
 
-        <div className="bg-teal-900/40 backdrop-blur-sm rounded-2xl shadow-2xl p-8 mb-8 border border-teal-800/50">
+        <div className="bg-[#1D2536] backdrop-blur-sm rounded-2xl shadow-2xl p-8 mb-8 border border-slate-800/50">
           <div className="grid md:grid-cols-2 gap-6 mb-8">
             <div>
-              <label className="block text-sm font-medium text-teal-100/90 mb-2">
+              <label className="block text-sm font-medium text-slate-100/90 mb-2">
                 First Person
               </label>
               <select
                 value={person1}
                 onChange={(e) => setPerson1(e.target.value)}
-                className="w-full px-4 py-3 rounded-lg border border-teal-700/50 bg-teal-900/60 text-white focus:ring-2 focus:ring-orange-500 focus:border-transparent transition backdrop-blur-sm"
+                className="w-full px-4 py-3 rounded-lg border border-slate-700/50 bg-slate-900/60 text-white focus:ring-2 focus:ring-orange-500 focus:border-transparent transition backdrop-blur-sm"
               >
                 <option value="">Select a person...</option>
                 {allPeople.map((person) => (
@@ -66,13 +76,13 @@ export default function Home() {
             </div>
 
             <div>
-              <label className="block text-sm font-medium text-teal-100/90 mb-2">
+              <label className="block text-sm font-medium text-slate-100/90 mb-2">
                 Second Person
               </label>
               <select
                 value={person2}
                 onChange={(e) => setPerson2(e.target.value)}
-                className="w-full px-4 py-3 rounded-lg border border-teal-700/50 bg-teal-900/60 text-white focus:ring-2 focus:ring-orange-500 focus:border-transparent transition backdrop-blur-sm"
+                className="w-full px-4 py-3 rounded-lg border border-slate-700/50 bg-slate-900/60 text-white focus:ring-2 focus:ring-orange-500 focus:border-transparent transition backdrop-blur-sm"
               >
                 <option value="">Select a person...</option>
                 {allPeople.map((person) => (
@@ -91,60 +101,57 @@ export default function Home() {
                 <div className="text-6xl font-bold text-orange-400 mb-2">
                   {compatibility.compatibility_score}%
                 </div>
-                <p className="text-sm text-teal-100/70">
+                <p className="text-sm text-slate-100/70">
                   Compatibility Score
                 </p>
               </div>
 
-              {/* Diagnosis */}
-              <div className="bg-teal-800/30 rounded-lg p-4 border border-teal-700/30">
-                <h3 className="font-semibold text-white mb-2">
-                  Analysis
-                </h3>
-                <p className="text-teal-100/80">
-                  {compatibility.diagnosis}
-                </p>
-              </div>
+              {/* Diagnosis and Metrics Grid */}
+              <div className="grid md:grid-cols-3 gap-4">
+                {/* Diagnosis - Left Side */}
+                <div className="md:col-span-2 bg-slate-800/30 rounded-lg p-6 border border-slate-700/30">
+                  <h3 className="font-semibold text-white mb-3 text-2xl">
+                    {compatibility.diagnosis.title}
+                  </h3>
+                  <ul className="list-disc list-inside space-y-1 text-slate-100/80">
+                    {compatibility.diagnosis.details.map((detail, index) => (
+                      <li key={index}>{detail}</li>
+                    ))}
+                  </ul>
+                </div>
 
-              {/* Metrics Grid */}
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-                <div className="bg-teal-800/40 border border-teal-700/30 rounded-lg p-4">
-                  <div className="text-2xl font-bold text-orange-400">
-                    {compatibility.metrics.shared_books_finished}
+                {/* Metrics - Right Side Stacked */}
+                <div className="flex flex-col gap-4">
+                  <div className="bg-slate-800/40 border border-slate-700/30 rounded-lg p-4">
+                    <div className="text-2xl font-bold text-orange-400">
+                      {compatibility.metrics.shared_books_finished}
+                    </div>
+                    <div className="text-xs text-slate-100/70">
+                      Shared Books
+                    </div>
                   </div>
-                  <div className="text-xs text-teal-100/70">
-                    Shared Books
+                  <div className="bg-slate-800/40 border border-slate-700/30 rounded-lg p-4">
+                    <div className="text-2xl font-bold text-orange-400">
+                      {compatibility.metrics.shared_authors}
+                    </div>
+                    <div className="text-xs text-slate-100/70">
+                      Shared Authors
+                    </div>
                   </div>
-                </div>
-                <div className="bg-teal-800/40 border border-teal-700/30 rounded-lg p-4">
-                  <div className="text-2xl font-bold text-orange-400">
-                    {compatibility.metrics.shared_authors}
-                  </div>
-                  <div className="text-xs text-teal-100/70">
-                    Shared Authors
-                  </div>
-                </div>
-                <div className="bg-teal-800/40 border border-teal-700/30 rounded-lg p-4">
-                  <div className="text-2xl font-bold text-orange-400">
-                    {compatibility.metrics.cross_recommendations}
-                  </div>
-                  <div className="text-xs text-teal-100/70">
-                    Cross Recommendations
-                  </div>
-                </div>
-                <div className="bg-teal-800/40 border border-teal-700/30 rounded-lg p-4">
-                  <div className="text-2xl font-bold text-orange-400">
-                    {compatibility.metrics.shared_tbr}
-                  </div>
-                  <div className="text-xs text-teal-100/70">
-                    Shared TBR
+                  <div className="bg-slate-800/40 border border-slate-700/30 rounded-lg p-4">
+                    <div className="text-2xl font-bold text-orange-400">
+                      {compatibility.metrics.shared_tbr}
+                    </div>
+                    <div className="text-xs text-slate-100/70">
+                      Shared TBR
+                    </div>
                   </div>
                 </div>
               </div>
 
               {/* Shared Books */}
               {compatibility.top_shared_books.length > 0 && (
-                <div className="bg-teal-800/30 rounded-lg p-4 border border-teal-700/30">
+                <div className="bg-slate-800/30 rounded-lg p-4 border border-slate-700/30">
                   <h3 className="font-semibold text-white mb-3">
                     Top Shared Books
                   </h3>
@@ -163,7 +170,7 @@ export default function Home() {
 
               {/* Shared Authors */}
               {compatibility.top_shared_authors.length > 0 && (
-                <div className="bg-teal-800/30 rounded-lg p-4 border border-teal-700/30">
+                <div className="bg-slate-800/30 rounded-lg p-4 border border-slate-700/30">
                   <h3 className="font-semibold text-white mb-3">
                     Top Shared Authors
                   </h3>
@@ -171,12 +178,12 @@ export default function Home() {
                     {compatibility.top_shared_authors.slice(0, 5).map((author, idx) => (
                       <div
                         key={idx}
-                        className="flex justify-between items-center p-2 bg-teal-900/40 rounded"
+                        className="flex justify-between items-center p-2 bg-slate-900/40 rounded"
                       >
                         <span className="text-white font-medium">
                           {author.author}
                         </span>
-                        <span className="text-sm text-teal-200/70">
+                        <span className="text-sm text-slate-200/70">
                           {person1}: {author.person1_count} | {person2}: {author.person2_count}
                         </span>
                       </div>
@@ -186,44 +193,44 @@ export default function Home() {
               )}
 
               {/* Score Breakdown */}
-              <div className="bg-teal-800/30 rounded-lg p-4 border border-teal-700/30">
+              <div className="bg-slate-800/30 rounded-lg p-4 border border-slate-700/30">
                 <h3 className="font-semibold text-white mb-3">
                   Score Breakdown
                 </h3>
                 <div className="space-y-2 text-sm">
                   <div className="flex justify-between">
-                    <span className="text-teal-100/70">Shared Finished Books:</span>
+                    <span className="text-slate-100/70">Shared Finished Books:</span>
                     <span className="font-medium text-orange-400">
                       {(compatibility.score_breakdown.shared_finished * 100).toFixed(1)}%
                     </span>
                   </div>
                   <div className="flex justify-between">
-                    <span className="text-teal-100/70">Shared Authors:</span>
+                    <span className="text-slate-100/70">Shared Authors:</span>
                     <span className="font-medium text-orange-400">
                       {(compatibility.score_breakdown.shared_authors * 100).toFixed(1)}%
                     </span>
                   </div>
                   <div className="flex justify-between">
-                    <span className="text-teal-100/70">Cross Recommendations:</span>
+                    <span className="text-slate-100/70">Cross Recommendations:</span>
                     <span className="font-medium text-orange-400">
                       {(compatibility.score_breakdown.cross_recommendations * 100).toFixed(1)}%
                     </span>
                   </div>
                   <div className="flex justify-between">
-                    <span className="text-teal-100/70">Shared TBR:</span>
+                    <span className="text-slate-100/70">Shared TBR:</span>
                     <span className="font-medium text-orange-400">
                       {(compatibility.score_breakdown.shared_tbr * 100).toFixed(1)}%
                     </span>
                   </div>
                   <div className="flex justify-between">
-                    <span className="text-teal-100/70">Reading Behavior:</span>
+                    <span className="text-slate-100/70">Reading Behavior:</span>
                     <span className="font-medium text-orange-400">
                       {(compatibility.score_breakdown.reading_behavior * 100).toFixed(1)}%
                     </span>
                   </div>
                   {compatibility.score_breakdown.disagreement_penalty !== 0 && (
                     <div className="flex justify-between">
-                      <span className="text-teal-100/70">Disagreement Penalty:</span>
+                      <span className="text-slate-100/70">Disagreement Penalty:</span>
                       <span className="font-medium text-red-400">
                         {(compatibility.score_breakdown.disagreement_penalty * 100).toFixed(1)}%
                       </span>
@@ -235,19 +242,19 @@ export default function Home() {
           )}
 
           {!compatibility && person1 && person2 && person1 !== person2 && (
-            <div className="text-center py-8 text-teal-100/60">
+            <div className="text-center py-8 text-slate-100/60">
               No compatibility data found for this pairing.
             </div>
           )}
 
           {(!person1 || !person2 || person1 === person2) && (
-            <div className="text-center py-8 text-teal-100/60">
+            <div className="text-center py-8 text-slate-100/60">
               Select two different people to view their reading compatibility.
             </div>
           )}
         </div>
 
-        <div className="text-center text-sm text-teal-100/50">
+        <div className="text-center text-sm text-slate-100/50">
           Total pairings analyzed: {data.metadata.total_pairings} | Average compatibility:{" "}
           {data.metadata.average_compatibility}%
         </div>

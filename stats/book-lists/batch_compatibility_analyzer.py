@@ -83,23 +83,46 @@ class ReadingCompatibilityAnalyzer:
         shared_authors_finished = authors1['finished'] & authors2['finished']
         shared_authors_all = authors1['all'] & authors2['all']
         
+        # Calculate confidence factor based on library sizes
+        # Penalize scores when sample sizes are too small
+        min_books = min(len(books1['finished']), len(books2['finished']))
+
+        # Confidence factor: scales from 0.5 to 1.0 based on sample size
+        # Full confidence at 20+ books each, reduced confidence below that
+        confidence_factor = 0.5 + 0.5 * min(1.0, min_books / 20)
+
         # Calculate scores
         scores = {}
-        
+
         # 1. Shared finished books (35%)
+        # Use Jaccard index (union-based) to avoid inflating small libraries
         if len(books1['finished']) + len(books2['finished']) > 0:
-            shared_finished_score = len(shared_finished) / min(len(books1['finished']), len(books2['finished'])) if min(len(books1['finished']), len(books2['finished'])) > 0 else 0
-            scores['shared_finished'] = min(1.0, shared_finished_score) * 0.35
+            # Jaccard similarity: intersection / union
+            jaccard_books = len(shared_finished) / len(books1['finished'] | books2['finished'])
+
+            # Also consider absolute overlap - bonus for having many shared books
+            absolute_bonus = min(1.0, len(shared_finished) / 10)  # Bonus maxes out at 10 shared books
+
+            # Combine: 70% Jaccard, 30% absolute overlap
+            shared_finished_score = jaccard_books * 0.7 + absolute_bonus * 0.3
+            scores['shared_finished'] = shared_finished_score * 0.35
         else:
             scores['shared_finished'] = 0
-            
+
         # 2. Shared authors (30%)
         if len(authors1['all']) + len(authors2['all']) > 0:
+            # Use Jaccard index for authors
             author_jaccard = len(shared_authors_all) / len(authors1['all'] | authors2['all'])
-            scores['shared_authors'] = np.sqrt(author_jaccard) * 0.30
+
+            # Absolute bonus for having many shared authors
+            absolute_author_bonus = min(1.0, len(shared_authors_finished) / 5)
+
+            # Combine with sqrt to dampen the effect
+            combined_author_score = author_jaccard * 0.7 + absolute_author_bonus * 0.3
+            scores['shared_authors'] = np.sqrt(combined_author_score) * 0.30
         else:
             scores['shared_authors'] = 0
-            
+
         # 3. Cross-recommendations (10%)
         total_possible = len(books1['finished']) + len(books2['finished'])
         if total_possible > 0:
@@ -107,25 +130,29 @@ class ReadingCompatibilityAnalyzer:
             scores['cross_recommendations'] = min(1.0, cross_rec_score) * 0.10
         else:
             scores['cross_recommendations'] = 0
-            
+
         # 4. Shared TBR (20%)
         if len(books1['want_to_read']) + len(books2['want_to_read']) > 0:
             tbr_jaccard = len(shared_tbr) / len(books1['want_to_read'] | books2['want_to_read'])
             scores['shared_tbr'] = tbr_jaccard * 0.20
         else:
             scores['shared_tbr'] = 0
-            
+
         # 5. Reading behavior (5%)
         p1_finish_rate = len(books1['finished']) / len(books1['all']) if len(books1['all']) > 0 else 0
         p2_finish_rate = len(books2['finished']) / len(books2['all']) if len(books2['all']) > 0 else 0
         finish_rate_similarity = 1 - abs(p1_finish_rate - p2_finish_rate)
         size_ratio = min(len(books1['all']), len(books2['all'])) / max(len(books1['all']), len(books2['all'])) if max(len(books1['all']), len(books2['all'])) > 0 else 0
         scores['reading_behavior'] = (finish_rate_similarity * 0.7 + size_ratio * 0.3) * 0.05
-        
-        # 6. Disagreement penalty
+
+        # 6. Disagreement penalty (minimal impact)
         disagreements = len(p1_finished_p2_dnf) + len(p2_finished_p1_dnf)
-        scores['disagreement_penalty'] = -min(0.15, disagreements * 0.02)
-        
+        scores['disagreement_penalty'] = -min(0.03, disagreements * 0.005)
+
+        # Apply confidence factor to main scores (not penalties/behavior)
+        scores['shared_finished'] *= confidence_factor
+        scores['shared_authors'] *= confidence_factor
+
         total_score = sum(scores.values())
         
         # Get top shared authors with counts
@@ -186,19 +213,22 @@ class ReadingCompatibilityAnalyzer:
         
         # Determine compatibility level
         if score >= 0.70:
-            level = "EXCELLENT"
+            level = "Superb"
             emoji = "🌟"
         elif score >= 0.50:
-            level = "GOOD"
+            level = "Excellent"
             emoji = "😊"
         elif score >= 0.30:
-            level = "MODERATE"
+            level = "Good"
+            emoji = "🙂"
+        elif score >= 0.20:
+            level = "Decent"
             emoji = "👍"
         elif score >= 0.15:
-            level = "LOW"
+            level = "Low"
             emoji = "🤔"
         else:
-            level = "MINIMAL"
+            level = "Minimal"
             emoji = "😅"
         
         # Calculate overlap percentage
@@ -210,49 +240,62 @@ class ReadingCompatibilityAnalyzer:
         size_balanced = size_diff < 20
         
         # Build diagnosis
-        diagnosis_parts = []
-        
-        # Main assessment
-        diagnosis_parts.append(f"{emoji} {level} COMPATIBILITY ({score*100:.1f}%)")
-        
+        diagnosis_title = f"{emoji} {level} Compatibility ({score*100:.1f}%)"
+        diagnosis_details = []
+
+        # Helper function for plural forms
+        def pluralize(count, singular, plural=None):
+            if plural is None:
+                plural = singular + "s"
+            return singular if count == 1 else plural
+
         # Key insights
+        book_word = pluralize(shared_finished, "book")
         if shared_finished > 10:
-            diagnosis_parts.append(f"Strong overlap with {shared_finished} shared books.")
-        elif shared_finished > 5:
-            diagnosis_parts.append(f"Decent overlap with {shared_finished} shared books.")
+            diagnosis_details.append(f"Strong overlap with {shared_finished} shared {book_word}.")
+        elif shared_finished > 4:
+            diagnosis_details.append(f"A bit of overlap with {shared_finished} shared {book_word}.")
         elif shared_finished > 2:
-            diagnosis_parts.append(f"Some overlap with {shared_finished} shared books.")
+            diagnosis_details.append(f"Some overlap with {shared_finished} shared {book_word}.")
         else:
-            diagnosis_parts.append(f"Limited overlap with only {shared_finished} shared books.")
-        
+            diagnosis_details.append(f"Limited overlap with only {shared_finished} shared {book_word}.")
+
         # Size dynamics
         if not size_balanced:
             if p1_finished > p2_finished * 2:
-                diagnosis_parts.append("Large library size difference - first reader is much more prolific.")
+                diagnosis_details.append("Large library size difference — first reader is much more prolific.")
             elif p2_finished > p1_finished * 2:
-                diagnosis_parts.append("Large library size difference - second reader is much more prolific.")
-        
+                diagnosis_details.append("Large library size difference — second reader is much more prolific.")
+
         # Recommendations potential
         if cross_recs > 20:
-            diagnosis_parts.append(f"Excellent recommendation potential ({cross_recs} books to share).")
+            rec_book_word = pluralize(cross_recs, "book")
+            diagnosis_details.append(f"Excellent recommendation potential ({cross_recs} {rec_book_word} to share).")
         elif cross_recs > 10:
-            diagnosis_parts.append(f"Good recommendation potential ({cross_recs} books to share).")
+            rec_book_word = pluralize(cross_recs, "book")
+            diagnosis_details.append(f"Good recommendation potential ({cross_recs} {rec_book_word} to share).")
         elif cross_recs > 5:
-            diagnosis_parts.append(f"Some recommendation potential ({cross_recs} books to share).")
-        
+            rec_book_word = pluralize(cross_recs, "book")
+            diagnosis_details.append(f"Some recommendation potential ({cross_recs} {rec_book_word} to share).")
+
         # Disagreements
         if disagreements > 5:
-            diagnosis_parts.append(f"Notable taste differences ({disagreements} disagreements).")
+            disagreement_word = pluralize(disagreements, "disagreement")
+            diagnosis_details.append(f"Notable taste differences ({disagreements} {disagreement_word}).")
         elif disagreements > 0:
-            diagnosis_parts.append(f"Minor taste differences ({disagreements} disagreements).")
-        
+            disagreement_word = pluralize(disagreements, "disagreement")
+            diagnosis_details.append(f"Minor taste differences ({disagreements} {disagreement_word}).")
+
         # Author overlap
         if shared_authors > 5:
-            diagnosis_parts.append(f"Very strong author overlap ({shared_authors} shared).")
+            diagnosis_details.append(f"Very strong author overlap ({shared_authors} shared).")
         elif shared_authors > 2:
-            diagnosis_parts.append(f"Good author overlap ({shared_authors} shared).")
-        
-        return " ".join(diagnosis_parts)
+            diagnosis_details.append(f"Good author overlap ({shared_authors} shared).")
+
+        return {
+            "title": diagnosis_title,
+            "details": diagnosis_details
+        }
     
     def process_all_files(self, directory_path):
         """Process all CSV files in directory"""
@@ -327,7 +370,7 @@ class ReadingCompatibilityAnalyzer:
                 'Shared Books': result['metrics']['shared_books_finished'],
                 'Shared Authors': result['metrics']['shared_authors'],
                 'Can Recommend': result['metrics']['cross_recommendations'],
-                'Diagnosis': result['diagnosis'].split('.')[0]  # First sentence only
+                'Diagnosis': result['diagnosis']['title']  # Use the title from the diagnosis object
             })
         
         df = pd.DataFrame(summary_data)

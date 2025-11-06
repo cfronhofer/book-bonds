@@ -24,6 +24,11 @@ export interface ScoreBreakdown {
   disagreement_penalty: number;
 }
 
+export interface Diagnosis {
+  title: string;
+  details: string[];
+}
+
 export interface CompatibilityResult {
   person1: string;
   person2: string;
@@ -32,7 +37,7 @@ export interface CompatibilityResult {
   top_shared_books: string[];
   top_shared_authors: SharedAuthor[];
   shared_tbr_sample: string[];
-  diagnosis: string;
+  diagnosis: Diagnosis;
   score_breakdown: ScoreBreakdown;
 }
 
