@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-11-05T19:08:45.169313",
+    "generated_at": "2025-11-05T19:10:32.078327",
     "total_pairings": 253,
     "average_compatibility": 9.0
   },
@@ -19,16 +19,16 @@
         "disagreements": 2
       },
       "top_shared_books": [
-        "the beginning of infinity",
-        "rhythm of war",
-        "how to read a book",
-        "monetizing innovation",
-        "reader come home",
-        "the bed of procrustes",
-        "the folding knife",
-        "fooled by randomness",
         "oathbringer",
-        "edgedancer"
+        "edgedancer",
+        "the folding knife",
+        "alchemy",
+        "monetizing innovation",
+        "how to read a book",
+        "the bed of procrustes",
+        "fooled by randomness",
+        "the well of ascension",
+        "rhythm of war"
       ],
       "top_shared_authors": [
         {
@@ -50,7 +50,7 @@
           "total": 3
         },
         {
-          "author": "Mortimer J Adler",
+          "author": "Andrew Chen",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
@@ -68,7 +68,7 @@
         "why greatness cannot be planned"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude42 Good Compatibility (40.8%)",
+        "title": "\ud83d\ude42 Good Compatibility",
         "details": [
           "Strong overlap with 16 shared books.",
           "Some recommendation potential (10 books to share).",
@@ -100,10 +100,10 @@
       },
       "top_shared_books": [
         "traction",
-        "how to read a book",
         "antifragile",
-        "atomic habits",
+        "how to read a book",
         "the art of learning",
+        "atomic habits",
         "4hour workweek"
       ],
       "top_shared_authors": [
@@ -112,12 +112,6 @@
           "person1_count": 1,
           "person2_count": 4,
           "total": 5
-        },
-        {
-          "author": "Tim Ferriss",
-          "person1_count": 2,
-          "person2_count": 1,
-          "total": 3
         },
         {
           "author": "James Clear",
@@ -132,6 +126,12 @@
           "total": 3
         },
         {
+          "author": "Tim Ferriss",
+          "person1_count": 2,
+          "person2_count": 1,
+          "total": 3
+        },
+        {
           "author": "Mortimer J Adler",
           "person1_count": 1,
           "person2_count": 1,
@@ -139,14 +139,14 @@
         }
       ],
       "shared_tbr_sample": [
-        "thinking in bets",
         "language instinct",
         "anything you want",
-        "never split the difference",
-        "outlive"
+        "outlive",
+        "positioning the battle for your mind",
+        "why greatness cannot be planned"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude42 Good Compatibility (32.2%)",
+        "title": "\ud83d\ude42 Good Compatibility",
         "details": [
           "A bit of overlap with 6 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -177,11 +177,11 @@
         "disagreements": 5
       },
       "top_shared_books": [
-        "shaladors lady",
+        "emily wildes map of the otherlands",
         "the perfect hope",
         "intermezzo",
-        "emily wildes map of the otherlands",
-        "the martian"
+        "the martian",
+        "shaladors lady"
       ],
       "top_shared_authors": [
         {
@@ -219,7 +219,7 @@
         "drug cartels do not exist"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (28.9%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "A bit of overlap with 5 shared books.",
           "Large library size difference \u2014 first reader is much more prolific.",
@@ -290,7 +290,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (28.4%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Some overlap with 4 shared books.",
           "Minor taste differences (2 disagreements).",
@@ -321,19 +321,19 @@
       },
       "top_shared_books": [
         "alchemy",
-        "loyalty programs",
         "monetizing innovation",
+        "loyalty programs",
         "atomic habits"
       ],
       "top_shared_authors": [
         {
-          "author": "Rory Sutherland",
+          "author": "James Clear",
           "person1_count": 1,
           "person2_count": 2,
           "total": 3
         },
         {
-          "author": "James Clear",
+          "author": "Rory Sutherland",
           "person1_count": 1,
           "person2_count": 2,
           "total": 3
@@ -345,26 +345,26 @@
           "total": 2
         },
         {
-          "author": "Philip Shelper",
+          "author": "Madhavan Ramanujam",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         },
         {
-          "author": "Madhavan Ramanujam",
+          "author": "Philip Shelper",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         }
       ],
       "shared_tbr_sample": [
-        "the will of the many",
-        "why greatness cannot be planned",
         "awareness",
-        "the anxious generation"
+        "the anxious generation",
+        "the will of the many",
+        "why greatness cannot be planned"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (26.4%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Some overlap with 4 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -395,10 +395,10 @@
         "disagreements": 5
       },
       "top_shared_books": [
+        "the folding knife",
         "the cold start problem",
         "leviathan wakes",
-        "certain to win",
-        "the folding knife"
+        "certain to win"
       ],
       "top_shared_authors": [
         {
@@ -427,12 +427,12 @@
         }
       ],
       "shared_tbr_sample": [
-        "why greatness cannot be planned",
         "skunk works",
+        "why greatness cannot be planned",
         "toll the hounds"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (26.3%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Some overlap with 4 shared books.",
           "Some recommendation potential (8 books to share).",
@@ -464,9 +464,9 @@
       },
       "top_shared_books": [
         "alchemy",
-        "flow",
         "monetizing innovation",
-        "the tainted cup"
+        "the tainted cup",
+        "flow"
       ],
       "top_shared_authors": [
         {
@@ -476,7 +476,7 @@
           "total": 3
         },
         {
-          "author": "Rory Sutherland",
+          "author": "Mihaly Csikszentmihalyi",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
@@ -488,20 +488,20 @@
           "total": 2
         },
         {
-          "author": "Mihaly Csikszentmihalyi",
+          "author": "Rory Sutherland",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         }
       ],
       "shared_tbr_sample": [
-        "the will of the many",
         "creativity",
+        "the will of the many",
         "why greatness cannot be planned",
         "book wars"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (26.2%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Some overlap with 4 shared books.",
           "Minor taste differences (1 disagreement).",
@@ -531,14 +531,14 @@
         "disagreements": 3
       },
       "top_shared_books": [
-        "the cold start problem",
+        "the curse of chalion",
         "the folding knife",
-        "the tainted cup",
-        "the curse of chalion"
+        "the cold start problem",
+        "the tainted cup"
       ],
       "top_shared_authors": [
         {
-          "author": "Lois Mcmaster Bujold",
+          "author": "K. J. Parker",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
@@ -550,27 +550,27 @@
           "total": 2
         },
         {
-          "author": "K. J. Parker",
+          "author": "Andrew Chen",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         },
         {
-          "author": "Andrew Chen",
+          "author": "Lois Mcmaster Bujold",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         }
       ],
       "shared_tbr_sample": [
-        "island of the blue foxes",
-        "steal like an artist",
         "the combat codes",
+        "why greatness cannot be planned",
+        "book wars",
         "smart brevity",
-        "why greatness cannot be planned"
+        "island of the blue foxes"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (25.7%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Some overlap with 4 shared books.",
           "Minor taste differences (3 disagreements).",
@@ -601,9 +601,9 @@
       },
       "top_shared_books": [
         "how to read a book",
-        "the courage to be disliked",
         "the name of the wind",
-        "atomic habits"
+        "atomic habits",
+        "the courage to be disliked"
       ],
       "top_shared_authors": [
         {
@@ -635,7 +635,7 @@
         "the comfort crisis"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (25.4%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Some overlap with 4 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -666,11 +666,11 @@
         "disagreements": 1
       },
       "top_shared_books": [
+        "the light of all that falls",
         "an echo of things to come",
-        "how to read a book",
-        "the shadow of what was lost",
         "the tainted cup",
-        "the light of all that falls"
+        "how to read a book",
+        "the shadow of what was lost"
       ],
       "top_shared_authors": [
         {
@@ -680,13 +680,13 @@
           "total": 7
         },
         {
-          "author": "Mortimer J Adler",
+          "author": "Robert Jackson Bennett",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         },
         {
-          "author": "Robert Jackson Bennett",
+          "author": "Mortimer J Adler",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
@@ -696,7 +696,7 @@
         "mens work"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (25.3%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "A bit of overlap with 5 shared books.",
           "Minor taste differences (1 disagreement).",
@@ -727,16 +727,10 @@
       },
       "top_shared_books": [
         "how to read a book",
-        "mans search for meaning",
-        "atomic habits"
+        "atomic habits",
+        "mans search for meaning"
       ],
       "top_shared_authors": [
-        {
-          "author": "Mortimer J Adler",
-          "person1_count": 1,
-          "person2_count": 1,
-          "total": 2
-        },
         {
           "author": "James Clear",
           "person1_count": 1,
@@ -748,11 +742,17 @@
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
+        },
+        {
+          "author": "Mortimer J Adler",
+          "person1_count": 1,
+          "person2_count": 1,
+          "total": 2
         }
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (24.6%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Some overlap with 3 shared books.",
           "Good author overlap (3 shared)."
@@ -781,19 +781,19 @@
         "disagreements": 0
       },
       "top_shared_books": [
-        "fourth wing",
+        "onyx storm",
         "expecting better",
-        "onyx storm"
+        "fourth wing"
       ],
       "top_shared_authors": [
         {
-          "author": "Rebecca Yarros",
+          "author": "Sarah J Maas",
           "person1_count": 3,
           "person2_count": 2,
           "total": 5
         },
         {
-          "author": "Sarah J Maas",
+          "author": "Rebecca Yarros",
           "person1_count": 3,
           "person2_count": 2,
           "total": 5
@@ -807,7 +807,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (24.3%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Some overlap with 3 shared books.",
           "Good author overlap (3 shared)."
@@ -836,13 +836,13 @@
         "disagreements": 2
       },
       "top_shared_books": [
-        "the bands of mourning",
-        "rhythm of war",
-        "the alloy of law",
-        "the way of kings",
         "shadows of self",
+        "rhythm of war",
+        "words of radiance",
         "wind and truth",
-        "words of radiance"
+        "the way of kings",
+        "the bands of mourning",
+        "the alloy of law"
       ],
       "top_shared_authors": [
         {
@@ -856,7 +856,7 @@
         "why greatness cannot be planned"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (22.9%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "A bit of overlap with 7 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -900,7 +900,7 @@
         "coal"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (22.9%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Minor taste differences (2 disagreements)."
@@ -929,12 +929,12 @@
         "disagreements": 1
       },
       "top_shared_books": [
-        "rhythm of war",
         "oathbringer",
-        "the way of kings",
-        "wind and truth",
+        "the well of ascension",
+        "rhythm of war",
         "words of radiance",
-        "the well of ascension"
+        "wind and truth",
+        "the way of kings"
       ],
       "top_shared_authors": [
         {
@@ -948,7 +948,7 @@
         "certain to win"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (22.9%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "A bit of overlap with 6 shared books.",
           "Large library size difference \u2014 first reader is much more prolific.",
@@ -980,9 +980,9 @@
       "top_shared_books": [
         "name of the wind",
         "rhythm of war",
-        "the way of kings",
+        "words of radiance",
         "wind and truth",
-        "words of radiance"
+        "the way of kings"
       ],
       "top_shared_authors": [
         {
@@ -1000,7 +1000,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (22.3%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "A bit of overlap with 5 shared books."
         ]
@@ -1028,11 +1028,11 @@
         "disagreements": 1
       },
       "top_shared_books": [
-        "the name of the wind",
+        "book wars",
         "rhythm of war",
-        "wind and truth",
+        "the name of the wind",
         "words of radiance",
-        "book wars"
+        "wind and truth"
       ],
       "top_shared_authors": [
         {
@@ -1065,7 +1065,7 @@
         "why greatness cannot be planned"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (22.2%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "A bit of overlap with 5 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -1097,8 +1097,8 @@
       },
       "top_shared_books": [
         "zero to one",
-        "sapiens",
-        "the wisdom of insecurity"
+        "the wisdom of insecurity",
+        "sapiens"
       ],
       "top_shared_authors": [
         {
@@ -1108,13 +1108,13 @@
           "total": 4
         },
         {
-          "author": "Peter A Thiel",
+          "author": "Yuval Noah Harari",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         },
         {
-          "author": "Yuval Noah Harari",
+          "author": "Peter A Thiel",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
@@ -1124,7 +1124,7 @@
         "outlive"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (21.7%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Some overlap with 3 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -1172,11 +1172,11 @@
         }
       ],
       "shared_tbr_sample": [
-        "the soul of a new machine",
-        "steal like an artist"
+        "steal like an artist",
+        "the soul of a new machine"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (21.5%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Limited overlap with only 2 shared books.",
           "Minor taste differences (1 disagreement)."
@@ -1205,10 +1205,10 @@
         "disagreements": 0
       },
       "top_shared_books": [
+        "oathbringer",
         "the way of kings",
-        "words of radiance",
         "the well of ascension",
-        "oathbringer"
+        "words of radiance"
       ],
       "top_shared_authors": [
         {
@@ -1226,7 +1226,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (21.2%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Some overlap with 4 shared books."
         ]
@@ -1254,9 +1254,9 @@
         "disagreements": 9
       },
       "top_shared_books": [
-        "zero to one",
         "the beginning of infinity",
         "the name of the wind",
+        "zero to one",
         "antifragile"
       ],
       "top_shared_authors": [
@@ -1289,7 +1289,7 @@
         "the creative act"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (21.1%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Some overlap with 4 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -1335,7 +1335,7 @@
         "istanbul"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (20.7%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Minor taste differences (2 disagreements)."
@@ -1376,7 +1376,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (20.4%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Minor taste differences (1 disagreement)."
@@ -1405,11 +1405,11 @@
         "disagreements": 2
       },
       "top_shared_books": [
-        "rhythm of war",
         "oathbringer",
-        "wind and truth",
+        "the well of ascension",
+        "rhythm of war",
         "words of radiance",
-        "the well of ascension"
+        "wind and truth"
       ],
       "top_shared_authors": [
         {
@@ -1429,7 +1429,7 @@
         "anthology of balaji"
       ],
       "diagnosis": {
-        "title": "\ud83d\udc4d Decent Compatibility (20.4%)",
+        "title": "\ud83d\udc4d Decent Compatibility",
         "details": [
           "A bit of overlap with 5 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -1459,11 +1459,11 @@
         "disagreements": 2
       },
       "top_shared_books": [
-        "the name of the wind",
-        "wise mans fear",
         "oathbringer",
-        "words of radiance",
-        "the well of ascension"
+        "the well of ascension",
+        "wise mans fear",
+        "the name of the wind",
+        "words of radiance"
       ],
       "top_shared_authors": [
         {
@@ -1480,13 +1480,13 @@
         }
       ],
       "shared_tbr_sample": [
-        "good inside",
-        "bad therapy",
         "the anxious generation",
-        "the trainable cat"
+        "bad therapy",
+        "the trainable cat",
+        "good inside"
       ],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (19.6%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "A bit of overlap with 5 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -1534,7 +1534,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (19.2%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book."
         ]
@@ -1580,7 +1580,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (18.8%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 first reader is much more prolific.",
@@ -1616,15 +1616,15 @@
       ],
       "top_shared_authors": [
         {
-          "author": "Andy Weir",
-          "person1_count": 1,
-          "person2_count": 2,
-          "total": 3
-        },
-        {
           "author": "Robert Jackson Bennett",
           "person1_count": 2,
           "person2_count": 1,
+          "total": 3
+        },
+        {
+          "author": "Andy Weir",
+          "person1_count": 1,
+          "person2_count": 2,
           "total": 3
         },
         {
@@ -1639,7 +1639,7 @@
         "book wars"
       ],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (18.7%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 2 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -1690,7 +1690,7 @@
         "handbook for hard times"
       ],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (18.7%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book."
         ]
@@ -1719,10 +1719,10 @@
       },
       "top_shared_books": [
         "oathbringer",
-        "the way of kings",
-        "the hero of ages",
+        "the well of ascension",
         "words of radiance",
-        "the well of ascension"
+        "the way of kings",
+        "the hero of ages"
       ],
       "top_shared_authors": [
         {
@@ -1734,7 +1734,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (18.4%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "A bit of overlap with 5 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -1782,7 +1782,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (18.4%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 2 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -1811,10 +1811,10 @@
         "disagreements": 0
       },
       "top_shared_books": [
-        "the invisible library",
-        "intermezzo",
         "masked city",
-        "the burning page"
+        "the burning page",
+        "intermezzo",
+        "the invisible library"
       ],
       "top_shared_authors": [
         {
@@ -1832,7 +1832,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (18.4%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Some overlap with 4 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -1866,13 +1866,13 @@
       ],
       "top_shared_authors": [
         {
-          "author": "James Clear",
+          "author": "Patrick Rothfuss",
           "person1_count": 1,
           "person2_count": 2,
           "total": 3
         },
         {
-          "author": "Patrick Rothfuss",
+          "author": "James Clear",
           "person1_count": 1,
           "person2_count": 2,
           "total": 3
@@ -1888,7 +1888,7 @@
         "the creative act"
       ],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (18.4%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 2 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -1919,9 +1919,9 @@
         "disagreements": 0
       },
       "top_shared_books": [
-        "the way of kings",
+        "words of radiance",
         "the name of the wind",
-        "words of radiance"
+        "the way of kings"
       ],
       "top_shared_authors": [
         {
@@ -1939,7 +1939,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (18.3%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Some overlap with 3 shared books."
         ]
@@ -1977,7 +1977,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (18.3%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Minor taste differences (1 disagreement)."
@@ -2024,7 +2024,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (18.0%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Minor taste differences (1 disagreement)."
@@ -2070,11 +2070,11 @@
         }
       ],
       "shared_tbr_sample": [
-        "the soul of a new machine",
-        "why greatness cannot be planned"
+        "why greatness cannot be planned",
+        "the soul of a new machine"
       ],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (17.6%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 first reader is much more prolific.",
@@ -2123,7 +2123,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (17.5%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 2 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -2171,7 +2171,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (17.4%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 2 shared books."
         ]
@@ -2217,7 +2217,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (17.4%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Minor taste differences (1 disagreement)."
@@ -2260,7 +2260,7 @@
         "the anxious generation"
       ],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (17.0%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book."
         ]
@@ -2300,7 +2300,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (16.9%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Minor taste differences (3 disagreements)."
@@ -2349,7 +2349,7 @@
         "slow productivity"
       ],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (16.9%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Minor taste differences (1 disagreement)."
@@ -2378,9 +2378,9 @@
         "disagreements": 0
       },
       "top_shared_books": [
-        "fourth wing",
+        "onyx storm",
         "house in the cerulean sea",
-        "onyx storm"
+        "fourth wing"
       ],
       "top_shared_authors": [
         {
@@ -2398,7 +2398,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (16.7%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Some overlap with 3 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -2446,7 +2446,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (16.6%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 2 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -2490,7 +2490,7 @@
         "zen and the art of motorcycle maintenance"
       ],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (16.6%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -2538,7 +2538,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (16.6%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book."
         ]
@@ -2576,7 +2576,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (16.4%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -2616,7 +2616,7 @@
         "what is art for"
       ],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (16.2%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -2656,7 +2656,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (16.0%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Minor taste differences (2 disagreements)."
@@ -2689,13 +2689,13 @@
       ],
       "top_shared_authors": [
         {
-          "author": "Jake Knapp",
+          "author": "Andy Weir",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
         },
         {
-          "author": "Andy Weir",
+          "author": "Jake Knapp",
           "person1_count": 1,
           "person2_count": 1,
           "total": 2
@@ -2703,7 +2703,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (15.9%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -2732,9 +2732,9 @@
         "disagreements": 1
       },
       "top_shared_books": [
-        "fourth wing",
         "iron flame",
-        "onyx storm"
+        "onyx storm",
+        "fourth wing"
       ],
       "top_shared_authors": [
         {
@@ -2746,11 +2746,11 @@
       ],
       "shared_tbr_sample": [
         "same as ever",
-        "the gifts of imperfection",
-        "steal like an artist"
+        "steal like an artist",
+        "the gifts of imperfection"
       ],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (15.5%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Some overlap with 3 shared books.",
           "Minor taste differences (1 disagreement)."
@@ -2797,7 +2797,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (15.4%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -2846,7 +2846,7 @@
         "why greatness cannot be planned"
       ],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (15.3%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book."
         ]
@@ -2886,7 +2886,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (15.3%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Minor taste differences (1 disagreement)."
@@ -2926,14 +2926,14 @@
         }
       ],
       "shared_tbr_sample": [
+        "outlive",
+        "the inevitable",
         "never split the difference",
         "same as ever",
-        "the soul of a new machine",
-        "outlive",
-        "the inevitable"
+        "the soul of a new machine"
       ],
       "diagnosis": {
-        "title": "\ud83e\udd14 Low Compatibility (15.1%)",
+        "title": "\ud83e\udd14 Low Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Minor taste differences (1 disagreement)."
@@ -2974,11 +2974,11 @@
       ],
       "shared_tbr_sample": [
         "pathless path",
-        "indistractable",
-        "positioning the battle for your mind"
+        "positioning the battle for your mind",
+        "indistractable"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (14.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -3023,7 +3023,7 @@
         "thinking in systems"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (14.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Minor taste differences (1 disagreement)."
@@ -3066,7 +3066,7 @@
         "the pleasure of finding things out"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (14.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -3109,7 +3109,7 @@
         "outlive"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (13.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -3138,8 +3138,8 @@
         "disagreements": 3
       },
       "top_shared_books": [
-        "the wise mans fear",
-        "the name of the wind"
+        "the name of the wind",
+        "the wise mans fear"
       ],
       "top_shared_authors": [
         {
@@ -3157,7 +3157,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (13.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 2 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -3202,7 +3202,7 @@
         "never split the difference"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (13.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -3234,13 +3234,13 @@
       "top_shared_books": [],
       "top_shared_authors": [],
       "shared_tbr_sample": [
-        "thinking in bets",
-        "amusing ourselves to death",
         "thinking in systems",
-        "barbarians at the gate"
+        "barbarians at the gate",
+        "thinking in bets",
+        "amusing ourselves to death"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (13.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -3282,7 +3282,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (13.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book."
         ]
@@ -3310,8 +3310,8 @@
         "disagreements": 0
       },
       "top_shared_books": [
-        "the cold start problem",
-        "steve jobs"
+        "steve jobs",
+        "the cold start problem"
       ],
       "top_shared_authors": [
         {
@@ -3329,7 +3329,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (13.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 2 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -3370,7 +3370,7 @@
         "the creative act"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (12.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -3410,7 +3410,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (12.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book."
         ]
@@ -3441,7 +3441,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (12.8%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -3481,7 +3481,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (12.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book."
         ]
@@ -3519,7 +3519,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (12.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -3559,11 +3559,11 @@
         }
       ],
       "shared_tbr_sample": [
-        "how asia works",
-        "why greatness cannot be planned"
+        "why greatness cannot be planned",
+        "how asia works"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (12.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -3603,7 +3603,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (12.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -3643,7 +3643,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (12.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Minor taste differences (1 disagreement)."
@@ -3682,7 +3682,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (12.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -3717,7 +3717,7 @@
         "indistractable"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (11.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -3750,7 +3750,7 @@
         "bluets"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (11.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -3790,7 +3790,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (11.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Minor taste differences (2 disagreements)."
@@ -3831,7 +3831,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (11.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -3872,7 +3872,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (10.8%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 first reader is much more prolific.",
@@ -3907,7 +3907,7 @@
         "pete the cat rocks on"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (10.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Minor taste differences (2 disagreements)."
@@ -3948,7 +3948,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (10.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book."
         ]
@@ -3982,7 +3982,7 @@
         "why greatness cannot be planned"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (10.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -4014,7 +4014,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (10.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -4052,7 +4052,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (10.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -4087,7 +4087,7 @@
         "pete the cat rocks on"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (10.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -4129,7 +4129,7 @@
         "steal like an artist"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (10.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -4164,7 +4164,7 @@
         "indistractable"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (10.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -4196,7 +4196,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (9.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -4231,7 +4231,7 @@
         "the way of kings"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (9.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -4266,7 +4266,7 @@
         "why greatness cannot be planned"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (9.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Minor taste differences (1 disagreement)."
@@ -4297,12 +4297,12 @@
       "top_shared_books": [],
       "top_shared_authors": [],
       "shared_tbr_sample": [
-        "how to live",
+        "steal like an artist",
         "book wars",
-        "steal like an artist"
+        "how to live"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (9.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -4334,7 +4334,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (9.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -4377,7 +4377,7 @@
         "gardens of the moon"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (9.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -4416,7 +4416,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (9.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -4452,7 +4452,7 @@
         "brave habit"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (9.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific.",
@@ -4485,7 +4485,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (9.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -4518,7 +4518,7 @@
         "pathless path"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (8.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific.",
@@ -4550,12 +4550,12 @@
       "top_shared_books": [],
       "top_shared_authors": [],
       "shared_tbr_sample": [
-        "the warren buffett way",
         "same as ever",
-        "why greatness cannot be planned"
+        "why greatness cannot be planned",
+        "the warren buffett way"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (8.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -4589,7 +4589,7 @@
         "thinking in systems"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (8.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -4620,7 +4620,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (8.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -4651,7 +4651,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (8.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -4683,7 +4683,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (8.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -4716,7 +4716,7 @@
         "positioning the battle for your mind"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (8.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -4751,7 +4751,7 @@
         "ape that understood the universe"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (8.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -4784,7 +4784,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (8.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -4825,7 +4825,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (8.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -4859,7 +4859,7 @@
         "thinking in bets"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (8.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -4901,7 +4901,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (8.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -4933,7 +4933,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (7.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -4967,7 +4967,7 @@
         "book wars"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (7.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -4999,7 +4999,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (7.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Minor taste differences (1 disagreement)."
@@ -5031,7 +5031,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (7.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Minor taste differences (2 disagreements)."
@@ -5065,7 +5065,7 @@
         "the alchemist"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (7.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -5099,7 +5099,7 @@
         "book of love"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (7.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -5130,7 +5130,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (7.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -5164,7 +5164,7 @@
         "the lincoln highway"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (7.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -5197,7 +5197,7 @@
         "the molecule of more"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (7.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -5228,7 +5228,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (7.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -5260,7 +5260,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (7.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -5294,7 +5294,7 @@
         "the alchemist"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (7.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -5334,7 +5334,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (7.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 1 shared book.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -5365,11 +5365,11 @@
       "top_shared_books": [],
       "top_shared_authors": [],
       "shared_tbr_sample": [
-        "thinking in systems",
-        "creativity inc the expanded edition"
+        "creativity inc the expanded edition",
+        "thinking in systems"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (6.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -5400,7 +5400,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (6.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -5433,7 +5433,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (6.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Minor taste differences (3 disagreements)."
@@ -5465,7 +5465,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (6.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Minor taste differences (2 disagreements)."
@@ -5497,7 +5497,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (6.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -5530,7 +5530,7 @@
         "the emyth revisited"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (6.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -5561,7 +5561,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (6.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -5592,7 +5592,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (6.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -5624,7 +5624,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (6.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -5657,7 +5657,7 @@
         "mistborn"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (6.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -5697,7 +5697,7 @@
       ],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (6.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -5729,7 +5729,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (6.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific.",
@@ -5762,7 +5762,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -5794,7 +5794,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -5826,7 +5826,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -5857,7 +5857,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.8%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -5887,11 +5887,11 @@
       "top_shared_books": [],
       "top_shared_authors": [],
       "shared_tbr_sample": [
-        "book wars",
-        "steal like an artist"
+        "steal like an artist",
+        "book wars"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.8%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -5924,7 +5924,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.8%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific.",
@@ -5959,7 +5959,7 @@
         "pete the cat rocks on"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -5990,7 +5990,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -6024,7 +6024,7 @@
         "tomorrow and tomorrow and tomorrow"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -6057,7 +6057,7 @@
         "reader come home"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -6089,7 +6089,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -6123,7 +6123,7 @@
         "thinking in bets"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -6156,7 +6156,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -6188,7 +6188,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -6221,7 +6221,7 @@
         "thinking in bets"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -6252,7 +6252,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -6285,7 +6285,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -6316,7 +6316,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -6347,7 +6347,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -6378,7 +6378,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -6411,7 +6411,7 @@
         "thinking in systems"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -6444,7 +6444,7 @@
         "hillbilly elegy"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -6478,7 +6478,7 @@
         "thinking in systems"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (5.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -6510,7 +6510,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.8%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -6541,7 +6541,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -6572,7 +6572,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -6606,7 +6606,7 @@
         "the alchemist"
       ],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -6638,7 +6638,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -6670,7 +6670,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -6701,7 +6701,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -6733,7 +6733,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -6765,7 +6765,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -6797,7 +6797,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -6828,7 +6828,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -6860,7 +6860,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -6892,7 +6892,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -6923,7 +6923,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -6955,7 +6955,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -6987,7 +6987,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -7019,7 +7019,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7050,7 +7050,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (4.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7081,7 +7081,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -7113,7 +7113,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -7146,7 +7146,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Minor taste differences (1 disagreement)."
@@ -7178,7 +7178,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -7210,7 +7210,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.8%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7241,7 +7241,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.8%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7272,7 +7272,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7303,7 +7303,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific.",
@@ -7336,7 +7336,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7367,7 +7367,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -7399,7 +7399,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7430,7 +7430,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7461,7 +7461,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7492,7 +7492,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7523,7 +7523,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -7555,7 +7555,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7586,7 +7586,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -7618,7 +7618,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7649,7 +7649,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific.",
@@ -7682,7 +7682,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7713,7 +7713,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7744,7 +7744,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7775,7 +7775,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7806,7 +7806,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -7838,7 +7838,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7869,7 +7869,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7900,7 +7900,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7931,7 +7931,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7962,7 +7962,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -7993,7 +7993,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (3.0%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -8025,7 +8025,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -8057,7 +8057,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.8%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -8088,7 +8088,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.8%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -8120,7 +8120,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.8%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -8152,7 +8152,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -8183,7 +8183,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -8214,7 +8214,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -8245,7 +8245,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -8277,7 +8277,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -8309,7 +8309,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -8341,7 +8341,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -8372,7 +8372,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -8404,7 +8404,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -8436,7 +8436,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -8468,7 +8468,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -8500,7 +8500,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -8531,7 +8531,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -8562,7 +8562,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -8593,7 +8593,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -8625,7 +8625,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -8657,7 +8657,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (2.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -8689,7 +8689,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.9%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -8721,7 +8721,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.8%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -8753,7 +8753,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -8784,7 +8784,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -8815,7 +8815,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -8847,7 +8847,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -8878,7 +8878,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -8910,7 +8910,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -8942,7 +8942,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -8974,7 +8974,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -9005,7 +9005,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -9036,7 +9036,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -9067,7 +9067,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -9098,7 +9098,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.4%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -9129,7 +9129,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -9161,7 +9161,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -9192,7 +9192,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (1.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -9223,7 +9223,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (0.8%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -9255,7 +9255,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (0.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -9286,7 +9286,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (0.7%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 first reader is much more prolific."
@@ -9318,7 +9318,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (0.6%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -9350,7 +9350,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (0.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -9381,7 +9381,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (0.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -9412,7 +9412,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (0.5%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books.",
           "Large library size difference \u2014 second reader is much more prolific."
@@ -9444,7 +9444,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (0.3%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -9475,7 +9475,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (0.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -9506,7 +9506,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (0.2%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]
@@ -9537,7 +9537,7 @@
       "top_shared_authors": [],
       "shared_tbr_sample": [],
       "diagnosis": {
-        "title": "\ud83d\ude05 Minimal Compatibility (0.1%)",
+        "title": "\ud83d\ude05 Minimal Compatibility",
         "details": [
           "Limited overlap with only 0 shared books."
         ]

@@ -240,7 +240,7 @@ class ReadingCompatibilityAnalyzer:
         size_balanced = size_diff < 20
         
         # Build diagnosis
-        diagnosis_title = f"{emoji} {level} Compatibility ({score*100:.1f}%)"
+        diagnosis_title = f"{emoji} {level} Compatibility"
         diagnosis_details = []
 
         # Helper function for plural forms

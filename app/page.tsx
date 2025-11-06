@@ -107,9 +107,9 @@ export default function Home() {
               </div>
 
               {/* Diagnosis and Metrics Grid */}
-              <div className="grid md:grid-cols-3 gap-4">
+              <div className="grid md:grid-cols-2 gap-4">
                 {/* Diagnosis - Left Side */}
-                <div className="md:col-span-2 bg-slate-800/30 rounded-lg p-6 border border-slate-700/30">
+                <div className="bg-slate-800/30 rounded-lg p-6 border border-slate-700/30">
                   <h3 className="font-semibold text-white mb-3 text-2xl">
                     {compatibility.diagnosis.title}
                   </h3>
@@ -122,27 +122,27 @@ export default function Home() {
 
                 {/* Metrics - Right Side Stacked */}
                 <div className="flex flex-col gap-4">
-                  <div className="bg-slate-800/40 border border-slate-700/30 rounded-lg p-4">
+                  <div className="bg-slate-800/40 border border-slate-700/30 rounded-lg p-4 flex items-center gap-3">
                     <div className="text-2xl font-bold text-orange-400">
                       {compatibility.metrics.shared_books_finished}
                     </div>
-                    <div className="text-xs text-slate-100/70">
+                    <div className="text-md text-slate-100/70">
                       Shared Books
                     </div>
                   </div>
-                  <div className="bg-slate-800/40 border border-slate-700/30 rounded-lg p-4">
+                  <div className="bg-slate-800/40 border border-slate-700/30 rounded-lg p-4 flex items-center gap-3">
                     <div className="text-2xl font-bold text-orange-400">
                       {compatibility.metrics.shared_authors}
                     </div>
-                    <div className="text-xs text-slate-100/70">
+                    <div className="text-md text-slate-100/70">
                       Shared Authors
                     </div>
                   </div>
-                  <div className="bg-slate-800/40 border border-slate-700/30 rounded-lg p-4">
+                  <div className="bg-slate-800/40 border border-slate-700/30 rounded-lg p-4 flex items-center gap-3">
                     <div className="text-2xl font-bold text-orange-400">
                       {compatibility.metrics.shared_tbr}
                     </div>
-                    <div className="text-xs text-slate-100/70">
+                    <div className="text-md text-slate-100/70">
                       Shared TBR
                     </div>
                   </div>
