@@ -34,27 +34,27 @@ export default function Home() {
   }, [person1, person2]);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-purple-50 to-blue-50 dark:from-gray-900 dark:to-gray-800 py-12 px-4">
+    <div className="min-h-screen bg-gradient-to-br from-teal-950 via-emerald-950 to-teal-900 py-12 px-4">
       <main className="max-w-4xl mx-auto">
         <div className="text-center mb-12">
-          <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-3">
+          <h1 className="text-4xl font-bold text-white mb-3">
             Book Bonds
           </h1>
-          <p className="text-lg text-gray-600 dark:text-gray-300">
+          <p className="text-lg text-teal-100/80">
             Discover your reading compatibility!
           </p>
         </div>
 
-        <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-xl p-8 mb-8">
+        <div className="bg-teal-900/40 backdrop-blur-sm rounded-2xl shadow-2xl p-8 mb-8 border border-teal-800/50">
           <div className="grid md:grid-cols-2 gap-6 mb-8">
             <div>
-              <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+              <label className="block text-sm font-medium text-teal-100/90 mb-2">
                 First Person
               </label>
               <select
                 value={person1}
                 onChange={(e) => setPerson1(e.target.value)}
-                className="w-full px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-purple-500 focus:border-transparent transition"
+                className="w-full px-4 py-3 rounded-lg border border-teal-700/50 bg-teal-900/60 text-white focus:ring-2 focus:ring-orange-500 focus:border-transparent transition backdrop-blur-sm"
               >
                 <option value="">Select a person...</option>
                 {allPeople.map((person) => (
@@ -66,13 +66,13 @@ export default function Home() {
             </div>
 
             <div>
-              <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+              <label className="block text-sm font-medium text-teal-100/90 mb-2">
                 Second Person
               </label>
               <select
                 value={person2}
                 onChange={(e) => setPerson2(e.target.value)}
-                className="w-full px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-purple-500 focus:border-transparent transition"
+                className="w-full px-4 py-3 rounded-lg border border-teal-700/50 bg-teal-900/60 text-white focus:ring-2 focus:ring-orange-500 focus:border-transparent transition backdrop-blur-sm"
               >
                 <option value="">Select a person...</option>
                 {allPeople.map((person) => (
@@ -87,56 +87,56 @@ export default function Home() {
           {compatibility && (
             <div className="space-y-6">
               {/* Compatibility Score */}
-              <div className="text-center py-8 bg-gradient-to-r from-purple-100 to-blue-100 dark:from-purple-900/30 dark:to-blue-900/30 rounded-xl">
-                <div className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-blue-600 mb-2">
+              <div className="text-center py-8 bg-gradient-to-r from-orange-500/20 to-orange-600/20 rounded-xl border border-orange-500/30">
+                <div className="text-6xl font-bold text-orange-400 mb-2">
                   {compatibility.compatibility_score}%
                 </div>
-                <p className="text-sm text-gray-600 dark:text-gray-400">
+                <p className="text-sm text-teal-100/70">
                   Compatibility Score
                 </p>
               </div>
 
               {/* Diagnosis */}
-              <div className="bg-gray-50 dark:bg-gray-700/50 rounded-lg p-4">
-                <h3 className="font-semibold text-gray-900 dark:text-white mb-2">
+              <div className="bg-teal-800/30 rounded-lg p-4 border border-teal-700/30">
+                <h3 className="font-semibold text-white mb-2">
                   Analysis
                 </h3>
-                <p className="text-gray-700 dark:text-gray-300">
+                <p className="text-teal-100/80">
                   {compatibility.diagnosis}
                 </p>
               </div>
 
               {/* Metrics Grid */}
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-                <div className="bg-gradient-to-br from-purple-50 to-purple-100 dark:from-purple-900/20 dark:to-purple-800/20 rounded-lg p-4">
-                  <div className="text-2xl font-bold text-purple-600 dark:text-purple-400">
+                <div className="bg-teal-800/40 border border-teal-700/30 rounded-lg p-4">
+                  <div className="text-2xl font-bold text-orange-400">
                     {compatibility.metrics.shared_books_finished}
                   </div>
-                  <div className="text-xs text-gray-600 dark:text-gray-400">
+                  <div className="text-xs text-teal-100/70">
                     Shared Books
                   </div>
                 </div>
-                <div className="bg-gradient-to-br from-blue-50 to-blue-100 dark:from-blue-900/20 dark:to-blue-800/20 rounded-lg p-4">
-                  <div className="text-2xl font-bold text-blue-600 dark:text-blue-400">
+                <div className="bg-teal-800/40 border border-teal-700/30 rounded-lg p-4">
+                  <div className="text-2xl font-bold text-orange-400">
                     {compatibility.metrics.shared_authors}
                   </div>
-                  <div className="text-xs text-gray-600 dark:text-gray-400">
+                  <div className="text-xs text-teal-100/70">
                     Shared Authors
                   </div>
                 </div>
-                <div className="bg-gradient-to-br from-green-50 to-green-100 dark:from-green-900/20 dark:to-green-800/20 rounded-lg p-4">
-                  <div className="text-2xl font-bold text-green-600 dark:text-green-400">
+                <div className="bg-teal-800/40 border border-teal-700/30 rounded-lg p-4">
+                  <div className="text-2xl font-bold text-orange-400">
                     {compatibility.metrics.cross_recommendations}
                   </div>
-                  <div className="text-xs text-gray-600 dark:text-gray-400">
+                  <div className="text-xs text-teal-100/70">
                     Cross Recommendations
                   </div>
                 </div>
-                <div className="bg-gradient-to-br from-orange-50 to-orange-100 dark:from-orange-900/20 dark:to-orange-800/20 rounded-lg p-4">
-                  <div className="text-2xl font-bold text-orange-600 dark:text-orange-400">
+                <div className="bg-teal-800/40 border border-teal-700/30 rounded-lg p-4">
+                  <div className="text-2xl font-bold text-orange-400">
                     {compatibility.metrics.shared_tbr}
                   </div>
-                  <div className="text-xs text-gray-600 dark:text-gray-400">
+                  <div className="text-xs text-teal-100/70">
                     Shared TBR
                   </div>
                 </div>
@@ -144,15 +144,15 @@ export default function Home() {
 
               {/* Shared Books */}
               {compatibility.top_shared_books.length > 0 && (
-                <div className="bg-gray-50 dark:bg-gray-700/50 rounded-lg p-4">
-                  <h3 className="font-semibold text-gray-900 dark:text-white mb-3">
+                <div className="bg-teal-800/30 rounded-lg p-4 border border-teal-700/30">
+                  <h3 className="font-semibold text-white mb-3">
                     Top Shared Books
                   </h3>
                   <div className="flex flex-wrap gap-2">
                     {compatibility.top_shared_books.map((book, idx) => (
                       <span
                         key={idx}
-                        className="px-3 py-1 bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300 rounded-full text-sm capitalize"
+                        className="px-3 py-1 bg-orange-500/20 border border-orange-500/30 text-orange-300 rounded-full text-sm capitalize"
                       >
                         {book}
                       </span>
@@ -163,20 +163,20 @@ export default function Home() {
 
               {/* Shared Authors */}
               {compatibility.top_shared_authors.length > 0 && (
-                <div className="bg-gray-50 dark:bg-gray-700/50 rounded-lg p-4">
-                  <h3 className="font-semibold text-gray-900 dark:text-white mb-3">
+                <div className="bg-teal-800/30 rounded-lg p-4 border border-teal-700/30">
+                  <h3 className="font-semibold text-white mb-3">
                     Top Shared Authors
                   </h3>
                   <div className="space-y-2">
                     {compatibility.top_shared_authors.slice(0, 5).map((author, idx) => (
                       <div
                         key={idx}
-                        className="flex justify-between items-center p-2 bg-white dark:bg-gray-700 rounded"
+                        className="flex justify-between items-center p-2 bg-teal-900/40 rounded"
                       >
-                        <span className="text-gray-900 dark:text-white font-medium">
+                        <span className="text-white font-medium">
                           {author.author}
                         </span>
-                        <span className="text-sm text-gray-500 dark:text-gray-400">
+                        <span className="text-sm text-teal-200/70">
                           {person1}: {author.person1_count} | {person2}: {author.person2_count}
                         </span>
                       </div>
@@ -186,45 +186,45 @@ export default function Home() {
               )}
 
               {/* Score Breakdown */}
-              <div className="bg-gray-50 dark:bg-gray-700/50 rounded-lg p-4">
-                <h3 className="font-semibold text-gray-900 dark:text-white mb-3">
+              <div className="bg-teal-800/30 rounded-lg p-4 border border-teal-700/30">
+                <h3 className="font-semibold text-white mb-3">
                   Score Breakdown
                 </h3>
                 <div className="space-y-2 text-sm">
                   <div className="flex justify-between">
-                    <span className="text-gray-600 dark:text-gray-400">Shared Finished Books:</span>
-                    <span className="font-medium text-gray-900 dark:text-white">
+                    <span className="text-teal-100/70">Shared Finished Books:</span>
+                    <span className="font-medium text-orange-400">
                       {(compatibility.score_breakdown.shared_finished * 100).toFixed(1)}%
                     </span>
                   </div>
                   <div className="flex justify-between">
-                    <span className="text-gray-600 dark:text-gray-400">Shared Authors:</span>
-                    <span className="font-medium text-gray-900 dark:text-white">
+                    <span className="text-teal-100/70">Shared Authors:</span>
+                    <span className="font-medium text-orange-400">
                       {(compatibility.score_breakdown.shared_authors * 100).toFixed(1)}%
                     </span>
                   </div>
                   <div className="flex justify-between">
-                    <span className="text-gray-600 dark:text-gray-400">Cross Recommendations:</span>
-                    <span className="font-medium text-gray-900 dark:text-white">
+                    <span className="text-teal-100/70">Cross Recommendations:</span>
+                    <span className="font-medium text-orange-400">
                       {(compatibility.score_breakdown.cross_recommendations * 100).toFixed(1)}%
                     </span>
                   </div>
                   <div className="flex justify-between">
-                    <span className="text-gray-600 dark:text-gray-400">Shared TBR:</span>
-                    <span className="font-medium text-gray-900 dark:text-white">
+                    <span className="text-teal-100/70">Shared TBR:</span>
+                    <span className="font-medium text-orange-400">
                       {(compatibility.score_breakdown.shared_tbr * 100).toFixed(1)}%
                     </span>
                   </div>
                   <div className="flex justify-between">
-                    <span className="text-gray-600 dark:text-gray-400">Reading Behavior:</span>
-                    <span className="font-medium text-gray-900 dark:text-white">
+                    <span className="text-teal-100/70">Reading Behavior:</span>
+                    <span className="font-medium text-orange-400">
                       {(compatibility.score_breakdown.reading_behavior * 100).toFixed(1)}%
                     </span>
                   </div>
                   {compatibility.score_breakdown.disagreement_penalty !== 0 && (
                     <div className="flex justify-between">
-                      <span className="text-gray-600 dark:text-gray-400">Disagreement Penalty:</span>
-                      <span className="font-medium text-red-600 dark:text-red-400">
+                      <span className="text-teal-100/70">Disagreement Penalty:</span>
+                      <span className="font-medium text-red-400">
                         {(compatibility.score_breakdown.disagreement_penalty * 100).toFixed(1)}%
                       </span>
                     </div>
@@ -235,19 +235,19 @@ export default function Home() {
           )}
 
           {!compatibility && person1 && person2 && person1 !== person2 && (
-            <div className="text-center py-8 text-gray-500 dark:text-gray-400">
+            <div className="text-center py-8 text-teal-100/60">
               No compatibility data found for this pairing.
             </div>
           )}
 
           {(!person1 || !person2 || person1 === person2) && (
-            <div className="text-center py-8 text-gray-500 dark:text-gray-400">
+            <div className="text-center py-8 text-teal-100/60">
               Select two different people to view their reading compatibility.
             </div>
           )}
         </div>
 
-        <div className="text-center text-sm text-gray-500 dark:text-gray-400">
+        <div className="text-center text-sm text-teal-100/50">
           Total pairings analyzed: {data.metadata.total_pairings} | Average compatibility:{" "}
           {data.metadata.average_compatibility}%
         </div>
