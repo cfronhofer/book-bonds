@@ -1,12 +1,14 @@
 Person 1,Person 2,Compatibility %,Shared Books,Shared Authors,Can Recommend,Diagnosis
 Tristan,Dan,40.8,16,9,10,🙂 Good Compatibility
 Rasul,Dan,32.2,6,7,5,🙂 Good Compatibility
+FDC,Dan,31.4,7,9,9,🙂 Good Compatibility
 Eleanor,Johannes,28.9,5,5,7,👍 Decent Compatibility
 Kait,Kris,28.4,4,5,2,👍 Decent Compatibility
 Kait,Dan,26.4,4,5,3,👍 Decent Compatibility
 Eleanor,Dan,26.3,4,4,8,👍 Decent Compatibility
 Tristan,Kait,26.2,4,4,2,👍 Decent Compatibility
 Tristan,Eleanor,25.7,4,4,2,👍 Decent Compatibility
+Tristan,FDC,25.4,3,5,3,👍 Decent Compatibility
 Kris,Dan,25.4,4,4,3,👍 Decent Compatibility
 Tristan,Kris,25.3,5,3,1,👍 Decent Compatibility
 Rasul,Kris,24.6,3,3,2,👍 Decent Compatibility
@@ -20,6 +22,7 @@ Mati,Dan,21.7,3,3,3,👍 Decent Compatibility
 Tristan,Abi,21.5,2,2,5,👍 Decent Compatibility
 Cayla,Meghan,21.2,4,2,0,👍 Decent Compatibility
 Artem,Dan,21.1,4,4,6,👍 Decent Compatibility
+Mati,FDC,20.8,2,2,3,👍 Decent Compatibility
 Artem,Cayla,20.7,1,1,4,👍 Decent Compatibility
 Artem,Meghan,20.4,1,1,4,👍 Decent Compatibility
 Cayla,Dan,20.4,5,2,2,👍 Decent Compatibility
@@ -49,6 +52,7 @@ Romi,Abi,16.6,1,2,0,🤔 Low Compatibility
 Romi,Emily,16.4,0,1,2,🤔 Low Compatibility
 Artem,Tadek,16.2,0,1,1,🤔 Low Compatibility
 Cayla,Johannes,16.0,1,1,1,🤔 Low Compatibility
+FDC,Rasul,16.0,1,2,2,🤔 Low Compatibility
 Kait,Johannes,15.9,1,2,0,🤔 Low Compatibility
 Eleanor,Abi,15.5,3,1,1,🤔 Low Compatibility
 Eleanor,Romi,15.4,1,2,1,🤔 Low Compatibility
@@ -56,6 +60,7 @@ Kait,Rasul,15.3,1,2,0,🤔 Low Compatibility
 Cayla,Kris,15.3,1,1,1,🤔 Low Compatibility
 Abi,Rasul,15.1,1,1,1,🤔 Low Compatibility
 Max,Dan,14.6,1,1,3,😅 Minimal Compatibility
+Artem,FDC,14.3,1,2,2,😅 Minimal Compatibility
 Mati,Rasul,14.3,1,1,1,😅 Minimal Compatibility
 Mati,Kait,14.2,1,1,0,😅 Minimal Compatibility
 Mati,Abi,13.6,1,1,0,😅 Minimal Compatibility
@@ -67,10 +72,13 @@ Dan,Hannes,13.2,2,2,3,😅 Minimal Compatibility
 Artem,Romi,12.9,0,1,1,😅 Minimal Compatibility
 Johannes,Emily,12.9,1,1,0,😅 Minimal Compatibility
 Kait,Abi,12.8,0,0,3,😅 Minimal Compatibility
+Romi,FDC,12.8,0,1,1,😅 Minimal Compatibility
 Mitch,Mati,12.7,1,1,0,😅 Minimal Compatibility
+Eleanor,FDC,12.5,1,1,3,😅 Minimal Compatibility
 Tristan,Tadek,12.4,0,1,2,😅 Minimal Compatibility
 Mitch,Eleanor,12.3,1,1,1,😅 Minimal Compatibility
 Romi,Johannes,12.3,0,1,0,😅 Minimal Compatibility
+Mitch,FDC,12.2,1,1,1,😅 Minimal Compatibility
 Meghan,Kris,12.2,1,1,0,😅 Minimal Compatibility
 Tadek,Rasul,12.0,0,1,1,😅 Minimal Compatibility
 Erin,Max,11.6,0,0,1,😅 Minimal Compatibility
@@ -83,14 +91,18 @@ Max,Romi,10.5,1,1,0,😅 Minimal Compatibility
 Mitch,Kait,10.4,0,0,1,😅 Minimal Compatibility
 Tadek,Max,10.2,0,0,1,😅 Minimal Compatibility
 Tadek,Dan,10.2,0,1,1,😅 Minimal Compatibility
+FDC,Kris,10.2,0,1,0,😅 Minimal Compatibility
 Mitch,Tadek,10.1,0,0,1,😅 Minimal Compatibility
 Erin,Abi,10.1,1,1,0,😅 Minimal Compatibility
 Erin,Dan,10.0,0,0,3,😅 Minimal Compatibility
+Tadek,FDC,10.0,1,1,0,😅 Minimal Compatibility
 Mitch,Abi,9.7,0,0,2,😅 Minimal Compatibility
 Artem,Abi,9.7,0,0,2,😅 Minimal Compatibility
+Meghan,FDC,9.4,0,0,1,😅 Minimal Compatibility
 Mitch,Rasul,9.3,0,0,1,😅 Minimal Compatibility
 Tristan,Erin,9.3,0,0,1,😅 Minimal Compatibility
 Kait,Cayla,9.1,0,0,1,😅 Minimal Compatibility
+Abi,FDC,9.1,0,0,1,😅 Minimal Compatibility
 Tristan,Hannes,9.0,1,1,0,😅 Minimal Compatibility
 Erin,Kris,9.0,0,1,0,😅 Minimal Compatibility
 Eleanor,Cayla,9.0,0,0,4,😅 Minimal Compatibility
@@ -98,11 +110,15 @@ Cayla,Emily,9.0,0,0,1,😅 Minimal Compatibility
 Tristan,Max,8.9,0,0,1,😅 Minimal Compatibility
 Eleanor,Rasul,8.9,0,0,1,😅 Minimal Compatibility
 Mati,Erin,8.6,0,0,1,😅 Minimal Compatibility
+Kait,FDC,8.6,0,0,1,😅 Minimal Compatibility
 Meghan,Emily,8.6,0,0,1,😅 Minimal Compatibility
 Max,Kris,8.5,0,0,1,😅 Minimal Compatibility
 Mitch,Erin,8.4,0,0,1,😅 Minimal Compatibility
+Johannes,FDC,8.4,0,0,2,😅 Minimal Compatibility
+FDC,Hannes,8.4,1,2,0,😅 Minimal Compatibility
 Max,Rasul,8.3,0,0,0,😅 Minimal Compatibility
 Artem,Eleanor,8.2,0,0,1,😅 Minimal Compatibility
+Cayla,FDC,8.2,0,0,1,😅 Minimal Compatibility
 Kait,Emily,8.1,0,0,1,😅 Minimal Compatibility
 Eleanor,Hannes,8.1,1,1,0,😅 Minimal Compatibility
 Adam,Rasul,8.0,0,0,1,😅 Minimal Compatibility
@@ -131,13 +147,16 @@ Mati,Eleanor,6.4,0,0,2,😅 Minimal Compatibility
 Johannes,Hannes,6.2,0,0,0,😅 Minimal Compatibility
 Artem,Kait,6.1,0,0,0,😅 Minimal Compatibility
 Angie,Romi,6.1,0,1,0,😅 Minimal Compatibility
+Ibai,FDC,6.1,0,0,1,😅 Minimal Compatibility
 Abi,Johannes,6.1,0,0,0,😅 Minimal Compatibility
+Adam,FDC,5.9,0,1,0,😅 Minimal Compatibility
 Tristan,Mati,5.9,0,0,0,😅 Minimal Compatibility
 Tristan,Romi,5.9,0,0,1,😅 Minimal Compatibility
 Artem,Hannes,5.9,0,0,0,😅 Minimal Compatibility
 Piotr,Adam,5.8,0,0,0,😅 Minimal Compatibility
 Erin,Eleanor,5.8,0,0,0,😅 Minimal Compatibility
 Kait,Max,5.8,0,0,1,😅 Minimal Compatibility
+Erin,FDC,5.7,0,0,1,😅 Minimal Compatibility
 Tadek,Johannes,5.7,0,0,0,😅 Minimal Compatibility
 Max,Eleanor,5.7,0,0,0,😅 Minimal Compatibility
 Artem,Max,5.6,0,0,0,😅 Minimal Compatibility
@@ -166,6 +185,7 @@ Piotr,Dan,4.4,0,0,1,😅 Minimal Compatibility
 Adam,Abi,4.4,0,0,0,😅 Minimal Compatibility
 Mati,Romi,4.4,0,0,0,😅 Minimal Compatibility
 Tristan,Ibai,4.3,0,0,1,😅 Minimal Compatibility
+Max,FDC,4.3,0,0,0,😅 Minimal Compatibility
 Tristan,Emily,4.2,0,0,0,😅 Minimal Compatibility
 Mati,Cayla,4.2,0,0,0,😅 Minimal Compatibility
 Piotr,Cayla,4.1,0,0,0,😅 Minimal Compatibility
@@ -173,6 +193,7 @@ Adam,Eleanor,4.1,0,0,0,😅 Minimal Compatibility
 Adam,Meghan,4.0,0,0,0,😅 Minimal Compatibility
 Mati,Emily,4.0,0,0,0,😅 Minimal Compatibility
 Max,Cayla,4.0,0,0,0,😅 Minimal Compatibility
+FDC,Emily,4.0,0,0,0,😅 Minimal Compatibility
 Piotr,Eleanor,3.9,0,0,0,😅 Minimal Compatibility
 Adam,Tristan,3.9,0,0,0,😅 Minimal Compatibility
 Max,Johannes,3.9,0,0,0,😅 Minimal Compatibility
@@ -211,6 +232,7 @@ Erin,Emily,2.6,0,0,0,😅 Minimal Compatibility
 Max,Emily,2.6,0,0,0,😅 Minimal Compatibility
 Ibai,Emily,2.6,0,0,0,😅 Minimal Compatibility
 Piotr,Mati,2.5,0,0,0,😅 Minimal Compatibility
+Angie,FDC,2.5,0,0,0,😅 Minimal Compatibility
 Abi,Hannes,2.5,0,0,0,😅 Minimal Compatibility
 Meghan,Hannes,2.5,0,0,0,😅 Minimal Compatibility
 Mitch,Ibai,2.4,0,0,0,😅 Minimal Compatibility
@@ -235,6 +257,7 @@ Ibai,Rasul,1.7,0,0,0,😅 Minimal Compatibility
 Ibai,Dan,1.7,0,0,0,😅 Minimal Compatibility
 Ibai,Hannes,1.5,0,0,0,😅 Minimal Compatibility
 Piotr,Ibai,1.4,0,0,0,😅 Minimal Compatibility
+Piotr,FDC,1.4,0,0,0,😅 Minimal Compatibility
 Erin,Ibai,1.4,0,0,0,😅 Minimal Compatibility
 Max,Ibai,1.4,0,0,0,😅 Minimal Compatibility
 Angie,Emily,1.4,0,0,0,😅 Minimal Compatibility
